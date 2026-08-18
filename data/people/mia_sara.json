@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mia_sara",
+  "name": "Mia Sara",
+  "external_ids": {
+    "wikidata": "Q253487",
+    "imdb": "nm0000214"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}
