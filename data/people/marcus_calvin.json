@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_calvin",
+  "name": "Marcus Calvin",
+  "external_ids": {
+    "wikidata": "Q1894107",
+    "imdb": "nm1250851"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

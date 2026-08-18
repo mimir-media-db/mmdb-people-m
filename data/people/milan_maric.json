@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_mark_brown",
-  "name": "Mark Brown",
+  "id": "p_milan_maric",
+  "name": "Milan Marić",
   "external_ids": {
-    "wikidata": "Q691227"
+    "wikidata": "Q55711403",
+    "imdb": "nm0547165"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1981
