@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_matteo_salvatore",
+  "name": "Matteo Salvatore",
+  "external_ids": {
+    "wikidata": "Q3852207",
+    "imdb": "nm2124938"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2005
+}

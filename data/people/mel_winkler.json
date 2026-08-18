@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mel_winkler",
+  "name": "Mel Winkler",
+  "external_ids": {
+    "wikidata": "Q3854078",
+    "imdb": "nm0935255"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2020
+}
