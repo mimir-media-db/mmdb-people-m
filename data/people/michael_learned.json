@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_learned",
+  "name": "Michael Learned",
+  "external_ids": {
+    "wikidata": "Q447248",
+    "imdb": "nm0495229"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}
