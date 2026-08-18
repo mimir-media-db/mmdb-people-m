@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_watt",
+  "name": "Mike Watt",
+  "external_ids": {
+    "wikidata": "Q924668",
+    "imdb": "nm0915002"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

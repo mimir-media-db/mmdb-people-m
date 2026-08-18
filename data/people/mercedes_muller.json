@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mercedes_muller",
+  "name": "Mercedes Müller",
+  "external_ids": {
+    "wikidata": "Q123015",
+    "imdb": "nm1723060"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1996
+}

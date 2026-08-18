@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_mouser",
+  "name": "Mary Mouser",
+  "external_ids": {
+    "wikidata": "Q439437",
+    "imdb": "nm1597268"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1996
+}

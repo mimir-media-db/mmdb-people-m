@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_mike_mills",
-  "name": "Mike Mills",
+  "id": "p_marek_bouda",
+  "name": "Marek Bouda",
   "external_ids": {
-    "wikidata": "Q724098",
-    "imdb": "nm0590122"
+    "wikidata": "Q106118712"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1966
