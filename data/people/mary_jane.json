@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_jane",
+  "name": "Mary Jane",
+  "external_ids": {
+    "wikidata": "Q16056069",
+    "imdb": "nm0417418"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

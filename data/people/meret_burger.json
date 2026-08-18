@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_meret_burger",
+  "name": "Meret Burger",
+  "external_ids": {
+    "wikidata": "Q97842",
+    "imdb": "nm0121220"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

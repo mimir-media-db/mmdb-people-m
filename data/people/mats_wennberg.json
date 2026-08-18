@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mats_wennberg",
+  "name": "Mats Wennberg",
+  "external_ids": {
+    "wikidata": "Q6235852",
+    "imdb": "nm0921036"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

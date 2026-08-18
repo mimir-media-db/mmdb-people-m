@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_muriel_robin",
+  "name": "Muriel Robin",
+  "external_ids": {
+    "wikidata": "Q2525146",
+    "imdb": "nm0732222"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

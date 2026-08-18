@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mel_gibson",
+  "name": "Mel Gibson",
+  "external_ids": {
+    "wikidata": "Q42229",
+    "imdb": "nm0000154"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

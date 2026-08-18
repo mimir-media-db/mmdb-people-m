@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_maria_schneider",
+  "name": "Maria Schneider",
+  "external_ids": {
+    "wikidata": "Q224071",
+    "imdb": "nm0773932"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2011
+}

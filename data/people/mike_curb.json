@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_curb",
+  "name": "Mike Curb",
+  "external_ids": {
+    "wikidata": "Q669266",
+    "imdb": "nm0192608"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}
