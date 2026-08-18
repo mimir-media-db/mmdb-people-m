@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monika_john",
+  "name": "Monika John",
+  "external_ids": {
+    "wikidata": "Q1944665",
+    "imdb": "nm0424203"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935
+}

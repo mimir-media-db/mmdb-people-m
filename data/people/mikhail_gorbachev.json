@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mikhail_gorbachev",
+  "name": "Mikhail Gorbachev",
+  "external_ids": {
+    "wikidata": "Q30487",
+    "imdb": "nm0329784"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2022
+}
