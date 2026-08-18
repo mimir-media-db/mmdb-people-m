@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marian_urban",
+  "name": "Marian Urban",
+  "external_ids": {
+    "wikidata": "Q12771075",
+    "imdb": "nm0881636"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2026
+}

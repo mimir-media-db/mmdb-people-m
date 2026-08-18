@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_adams",
+  "name": "Marcus Adams",
+  "external_ids": {
+    "wikidata": "Q6757982",
+    "imdb": "nm0011173"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

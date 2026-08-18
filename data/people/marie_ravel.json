@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marie_ravel",
+  "name": "Marie Ravel",
+  "external_ids": {
+    "wikidata": "Q3292751",
+    "imdb": "nm0712314"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

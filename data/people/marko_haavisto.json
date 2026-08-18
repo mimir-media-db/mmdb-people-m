@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marko_haavisto",
+  "name": "Marko Haavisto",
+  "external_ids": {
+    "wikidata": "Q1900805",
+    "imdb": "nm1149010"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
