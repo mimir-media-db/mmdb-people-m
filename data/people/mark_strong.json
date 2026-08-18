@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_strong",
+  "name": "Mark Strong",
+  "external_ids": {
+    "wikidata": "Q312712",
+    "imdb": "nm0835016"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

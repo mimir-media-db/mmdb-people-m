@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_dexter",
+  "name": "Mark Dexter",
+  "external_ids": {
+    "wikidata": "Q6767365",
+    "imdb": "nm0223316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

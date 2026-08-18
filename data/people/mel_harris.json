@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mel_harris",
+  "name": "Mel Harris",
+  "external_ids": {
+    "wikidata": "Q451917",
+    "imdb": "nm0004995"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_zak",
+  "name": "Mark Zak",
+  "external_ids": {
+    "wikidata": "Q1900519",
+    "imdb": "nm0952215"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

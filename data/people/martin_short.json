@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_short",
+  "name": "Martin Short",
+  "external_ids": {
+    "wikidata": "Q329744",
+    "imdb": "nm0001737"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

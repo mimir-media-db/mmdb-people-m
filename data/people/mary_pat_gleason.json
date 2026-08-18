@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_pat_gleason",
+  "name": "Mary Pat Gleason",
+  "external_ids": {
+    "wikidata": "Q6780492",
+    "imdb": "nm0322325"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950,
+  "death_year": 2020
+}
