@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_fortune",
+  "name": "Mary Fortune",
+  "external_ids": {
+    "wikidata": "Q6779568",
+    "imdb": "nm1292228"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1832,
+  "death_year": 1911
+}

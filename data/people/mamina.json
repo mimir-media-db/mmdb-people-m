@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mamina",
+  "name": "Mamina",
+  "external_ids": {
+    "wikidata": "Q18621140",
+    "imdb": "nm4020012"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962,
+  "death_year": 2014
+}

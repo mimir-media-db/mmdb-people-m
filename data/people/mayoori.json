@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mayoori",
+  "name": "Mayoori",
+  "external_ids": {
+    "wikidata": "Q6797611",
+    "imdb": "nm7083444"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982,
+  "death_year": 2005
+}
