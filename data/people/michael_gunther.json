@@ -1,12 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_michael_gunther",
-  "name": "Michael Günther",
+  "name": "Michael Gunther",
   "external_ids": {
-    "wikidata": "Q1927641",
-    "imdb": "nm0351610"
+    "wikidata": "Q6830840",
+    "imdb": "nm0348388"
   },
   "last_updated": "2026-08-18",
-  "birth_year": 1935,
-  "death_year": 2024
+  "birth_year": 1900
 }
