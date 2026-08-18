@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_ryan",
+  "name": "Matt Ryan",
+  "external_ids": {
+    "wikidata": "Q522373",
+    "imdb": "nm1790682"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

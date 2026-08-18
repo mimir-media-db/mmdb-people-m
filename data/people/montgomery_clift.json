@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_montgomery_clift",
+  "name": "Montgomery Clift",
+  "external_ids": {
+    "wikidata": "Q193102",
+    "imdb": "nm0001050"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 1966
+}

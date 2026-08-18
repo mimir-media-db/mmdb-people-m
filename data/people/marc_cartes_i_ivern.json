@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_cartes_i_ivern",
+  "name": "Marc Cartes i Ivern",
+  "external_ids": {
+    "wikidata": "Q11935090",
+    "imdb": "nm0142004"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

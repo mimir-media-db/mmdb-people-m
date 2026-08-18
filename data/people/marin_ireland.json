@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marin_ireland",
+  "name": "Marin Ireland",
+  "external_ids": {
+    "wikidata": "Q72749",
+    "imdb": "nm1677477"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

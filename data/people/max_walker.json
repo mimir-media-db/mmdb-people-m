@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_walker",
+  "name": "Max Walker",
+  "external_ids": {
+    "wikidata": "Q965642",
+    "imdb": "nm1448653"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}
