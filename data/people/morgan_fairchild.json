@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_fairchild",
+  "name": "Morgan Fairchild",
+  "external_ids": {
+    "wikidata": "Q235972",
+    "imdb": "nm0000392"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

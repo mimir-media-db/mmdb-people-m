@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mix_master_mike",
+  "name": "Mix Master Mike",
+  "external_ids": {
+    "wikidata": "Q704963",
+    "imdb": "nm1040909"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

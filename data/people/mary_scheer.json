@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_scheer",
+  "name": "Mary Scheer",
+  "external_ids": {
+    "wikidata": "Q434825",
+    "imdb": "nm0770462"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

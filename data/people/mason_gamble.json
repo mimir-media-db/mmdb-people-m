@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mason_gamble",
+  "name": "Mason Gamble",
+  "external_ids": {
+    "wikidata": "Q1066597",
+    "imdb": "nm0001253"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

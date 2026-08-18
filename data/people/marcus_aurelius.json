@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_aurelius",
+  "name": "Marcus Aurelius",
+  "external_ids": {
+    "wikidata": "Q1430"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 121,
+  "death_year": 180
+}

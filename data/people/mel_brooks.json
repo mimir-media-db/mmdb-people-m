@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mel_brooks",
+  "name": "Mel Brooks",
+  "external_ids": {
+    "wikidata": "Q104266",
+    "imdb": "nm0000316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926
+}

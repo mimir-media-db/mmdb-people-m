@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_field",
+  "name": "Michel Field",
+  "external_ids": {
+    "wikidata": "Q1927411",
+    "imdb": "nm0276002"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

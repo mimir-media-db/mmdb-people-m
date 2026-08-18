@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_marquez",
+  "name": "Martin Marquez",
+  "external_ids": {
+    "wikidata": "Q6776129",
+    "imdb": "nm0549861"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

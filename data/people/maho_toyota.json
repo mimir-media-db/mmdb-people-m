@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maho_toyota",
+  "name": "Maho Toyota",
+  "external_ids": {
+    "wikidata": "Q3546316",
+    "imdb": "nm0990047"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

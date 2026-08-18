@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_mccoy",
+  "name": "Mike McCoy",
+  "external_ids": {
+    "wikidata": "Q19666929",
+    "imdb": "nm0566788"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

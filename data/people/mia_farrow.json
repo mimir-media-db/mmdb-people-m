@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mia_farrow",
+  "name": "Mia Farrow",
+  "external_ids": {
+    "wikidata": "Q202725",
+    "imdb": "nm0001201"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

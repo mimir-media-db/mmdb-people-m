@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_moby",
+  "name": "Moby",
+  "external_ids": {
+    "wikidata": "Q14045",
+    "imdb": "nm0005240"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

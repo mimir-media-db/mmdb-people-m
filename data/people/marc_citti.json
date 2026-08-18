@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_citti",
+  "name": "Marc Citti",
+  "external_ids": {
+    "wikidata": "Q3287898",
+    "imdb": "nm0162950"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

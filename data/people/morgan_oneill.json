@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_oneill",
+  "name": "Morgan O'Neill",
+  "external_ids": {
+    "wikidata": "Q3323993",
+    "imdb": "nm0642041"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

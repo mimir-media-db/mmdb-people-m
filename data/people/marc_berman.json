@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_berman",
+  "name": "Marc Berman",
+  "external_ids": {
+    "wikidata": "Q3287809",
+    "imdb": "nm0075807"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

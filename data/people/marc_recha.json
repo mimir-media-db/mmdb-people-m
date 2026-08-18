@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_recha",
+  "name": "Marc Recha",
+  "external_ids": {
+    "wikidata": "Q943885",
+    "imdb": "nm0714437"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

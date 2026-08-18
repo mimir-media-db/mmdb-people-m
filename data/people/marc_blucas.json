@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_blucas",
+  "name": "Marc Blucas",
+  "external_ids": {
+    "wikidata": "Q382295",
+    "imdb": "nm0089456"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

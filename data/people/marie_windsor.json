@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marie_windsor",
+  "name": "Marie Windsor",
+  "external_ids": {
+    "wikidata": "Q2448652",
+    "imdb": "nm0934798"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1919,
+  "death_year": 2000
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_fleetwood",
+  "name": "Mick Fleetwood",
+  "external_ids": {
+    "wikidata": "Q508439",
+    "imdb": "nm0281450"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
