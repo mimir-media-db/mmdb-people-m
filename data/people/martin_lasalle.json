@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_lasalle",
+  "name": "Martin LaSalle",
+  "external_ids": {
+    "wikidata": "Q3295491",
+    "imdb": "nm0489425"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2018
+}

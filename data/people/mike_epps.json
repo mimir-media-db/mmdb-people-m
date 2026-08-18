@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_epps",
+  "name": "Mike Epps",
+  "external_ids": {
+    "wikidata": "Q311962",
+    "imdb": "nm0258402"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

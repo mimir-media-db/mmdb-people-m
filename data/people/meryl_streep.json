@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_meryl_streep",
+  "name": "Meryl Streep",
+  "external_ids": {
+    "wikidata": "Q873",
+    "imdb": "nm0000658"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

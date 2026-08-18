@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_miguel_bose",
+  "name": "Miguel Bosé",
+  "external_ids": {
+    "wikidata": "Q356762",
+    "imdb": "nm0098395"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

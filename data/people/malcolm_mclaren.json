@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_malcolm_mclaren",
+  "name": "Malcolm McLaren",
+  "external_ids": {
+    "wikidata": "Q325377",
+    "imdb": "nm0572229"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2010
+}

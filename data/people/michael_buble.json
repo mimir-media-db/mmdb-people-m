@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_buble",
+  "name": "Michael Bublé",
+  "external_ids": {
+    "wikidata": "Q153694",
+    "imdb": "nm0117826"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

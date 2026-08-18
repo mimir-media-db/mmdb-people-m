@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_stone",
+  "name": "Matt Stone",
+  "external_ids": {
+    "wikidata": "Q44410",
+    "imdb": "nm0001778"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

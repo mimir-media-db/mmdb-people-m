@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manfred_mock",
+  "name": "Manfred Möck",
+  "external_ids": {
+    "wikidata": "Q122041",
+    "imdb": "nm0617835"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

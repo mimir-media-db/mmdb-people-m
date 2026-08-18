@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mcg",
+  "name": "McG",
+  "external_ids": {
+    "wikidata": "Q385058",
+    "imdb": "nm0629334"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

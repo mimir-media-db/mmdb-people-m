@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_salinger",
+  "name": "Matt Salinger",
+  "external_ids": {
+    "wikidata": "Q3182914",
+    "imdb": "nm0758413"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

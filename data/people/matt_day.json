@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_day",
+  "name": "Matt Day",
+  "external_ids": {
+    "wikidata": "Q6006384",
+    "imdb": "nm0206510"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

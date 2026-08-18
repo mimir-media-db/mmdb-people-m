@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_thomas",
+  "name": "Mark Thomas",
+  "external_ids": {
+    "wikidata": "Q6769973",
+    "imdb": "nm0859215"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

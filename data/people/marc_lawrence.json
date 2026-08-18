@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_lawrence",
+  "name": "Marc Lawrence",
+  "external_ids": {
+    "wikidata": "Q1892718",
+    "imdb": "nm0492909"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

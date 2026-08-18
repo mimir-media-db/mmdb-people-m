@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_palm",
+  "name": "Marcus Palm",
+  "external_ids": {
+    "wikidata": "Q6033247",
+    "imdb": "nm1043008"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

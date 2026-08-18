@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martha_karlsson",
+  "name": "Märtha Karlsson",
+  "external_ids": {
+    "wikidata": "Q131558799",
+    "imdb": "nm1336926"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

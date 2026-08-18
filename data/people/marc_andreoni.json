@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_andreoni",
+  "name": "Marc Andréoni",
+  "external_ids": {
+    "wikidata": "Q3287751",
+    "imdb": "nm0029272"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

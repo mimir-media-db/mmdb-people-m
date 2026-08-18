@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_matthew_perry",
+  "name": "Matthew Perry",
+  "external_ids": {
+    "wikidata": "Q171758",
+    "imdb": "nm0001612"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969,
+  "death_year": 2023
+}

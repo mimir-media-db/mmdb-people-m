@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_molly_price",
+  "name": "Molly Price",
+  "external_ids": {
+    "wikidata": "Q450245",
+    "imdb": "nm0697062"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

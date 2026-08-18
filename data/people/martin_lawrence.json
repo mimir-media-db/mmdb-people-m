@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_lawrence",
+  "name": "Martin Lawrence",
+  "external_ids": {
+    "wikidata": "Q183542",
+    "imdb": "nm0001454"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

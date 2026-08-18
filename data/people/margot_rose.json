@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_margot_rose",
+  "name": "Margot Rose",
+  "external_ids": {
+    "wikidata": "Q6760695",
+    "imdb": "nm0741558"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

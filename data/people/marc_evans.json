@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_evans",
+  "name": "Marc Evans",
+  "external_ids": {
+    "wikidata": "Q1892607",
+    "imdb": "nm0263009"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

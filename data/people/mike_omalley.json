@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_omalley",
+  "name": "Mike O'Malley",
+  "external_ids": {
+    "wikidata": "Q703484",
+    "imdb": "nm0005282"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

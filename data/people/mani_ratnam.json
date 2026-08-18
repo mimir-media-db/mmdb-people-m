@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mani_ratnam",
+  "name": "Mani Ratnam",
+  "external_ids": {
+    "wikidata": "Q174648",
+    "imdb": "nm0711745"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

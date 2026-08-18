@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_hasselborg",
+  "name": "Marcus Hasselborg",
+  "external_ids": {
+    "wikidata": "Q3372600",
+    "imdb": "nm0368416"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

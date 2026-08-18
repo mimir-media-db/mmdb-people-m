@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marykate_olsen",
+  "name": "Mary-Kate Olsen",
+  "external_ids": {
+    "wikidata": "Q1151944",
+    "imdb": "nm0001581"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

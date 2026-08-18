@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_kay_place",
+  "name": "Mary Kay Place",
+  "external_ids": {
+    "wikidata": "Q238924",
+    "imdb": "nm0005316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

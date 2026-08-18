@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_mcclure",
+  "name": "Marc McClure",
+  "external_ids": {
+    "wikidata": "Q1152815",
+    "imdb": "nm0566013"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

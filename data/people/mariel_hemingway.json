@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mariel_hemingway",
+  "name": "Mariel Hemingway",
+  "external_ids": {
+    "wikidata": "Q234101",
+    "imdb": "nm0000446"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monet_mazur",
+  "name": "Monet Mazur",
+  "external_ids": {
+    "wikidata": "Q273650",
+    "imdb": "nm0005195"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
