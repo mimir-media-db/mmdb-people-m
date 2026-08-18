@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_megan_follows",
+  "name": "Megan Follows",
+  "external_ids": {
+    "wikidata": "Q271533",
+    "imdb": "nm0001227"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

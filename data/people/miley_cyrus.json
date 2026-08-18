@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_miley_cyrus",
+  "name": "Miley Cyrus",
+  "external_ids": {
+    "wikidata": "Q4235",
+    "imdb": "nm1415323"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1992
+}
