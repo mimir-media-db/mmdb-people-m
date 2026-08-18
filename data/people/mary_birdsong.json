@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_birdsong",
+  "name": "Mary Birdsong",
+  "external_ids": {
+    "wikidata": "Q3296147",
+    "imdb": "nm0083487"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1968,
+  "death_year": null
+}

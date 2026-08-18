@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_milan_chara",
+  "name": "Milan Chára",
+  "external_ids": {
+    "wikidata": "Q102337288",
+    "imdb": "nm5613322"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1966,
+  "death_year": null
+}

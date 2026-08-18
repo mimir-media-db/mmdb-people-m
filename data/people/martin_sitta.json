@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_sitta",
+  "name": "Martin Sitta",
+  "external_ids": {
+    "wikidata": "Q61043065",
+    "imdb": "nm0803265"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1968,
+  "death_year": null
+}

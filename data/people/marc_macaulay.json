@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_macaulay",
+  "name": "Marc Macaulay",
+  "external_ids": {
+    "wikidata": "Q1535860",
+    "imdb": "nm0531333"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1957,
+  "death_year": null
+}
