@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marlo_thomas",
+  "name": "Marlo Thomas",
+  "external_ids": {
+    "wikidata": "Q1614313",
+    "imdb": "nm0005486"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937
+}

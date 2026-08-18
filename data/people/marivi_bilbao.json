@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marivi_bilbao",
+  "name": "Mariví Bilbao",
+  "external_ids": {
+    "wikidata": "Q251828",
+    "imdb": "nm0082118"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2013
+}

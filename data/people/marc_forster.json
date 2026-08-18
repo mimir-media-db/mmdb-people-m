@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_forster",
+  "name": "Marc Forster",
+  "external_ids": {
+    "wikidata": "Q28497",
+    "imdb": "nm0286975"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

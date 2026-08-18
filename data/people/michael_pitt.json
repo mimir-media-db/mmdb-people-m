@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_pitt",
+  "name": "Michael Pitt",
+  "external_ids": {
+    "wikidata": "Q352540",
+    "imdb": "nm0685856"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

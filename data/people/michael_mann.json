@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_mann",
+  "name": "Michael Mann",
+  "external_ids": {
+    "wikidata": "Q270097",
+    "imdb": "nm0000520"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

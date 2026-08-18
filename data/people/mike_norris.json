@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_norris",
+  "name": "Mike Norris",
+  "external_ids": {
+    "wikidata": "Q287395",
+    "imdb": "nm0635869"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

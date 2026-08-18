@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_anthony",
+  "name": "Mark Anthony",
+  "external_ids": {
+    "wikidata": "Q3648334",
+    "imdb": "nm0030951"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mr_pete",
+  "name": "Mr. Pete",
+  "external_ids": {
+    "wikidata": "Q3866807",
+    "imdb": "nm0676182"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

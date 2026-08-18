@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_master_p",
+  "name": "Master P",
+  "external_ids": {
+    "wikidata": "Q722042",
+    "imdb": "nm0005290"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_mitchell",
+  "name": "Mike Mitchell",
+  "external_ids": {
+    "wikidata": "Q2507259",
+    "imdb": "nm0593610"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

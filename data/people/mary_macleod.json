@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_macleod",
+  "name": "Mary MacLeod",
+  "external_ids": {
+    "wikidata": "Q27186037",
+    "imdb": "nm0533920"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2016
+}

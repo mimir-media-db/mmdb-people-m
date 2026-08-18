@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maitland_ward",
+  "name": "Maitland Ward",
+  "external_ids": {
+    "wikidata": "Q447001",
+    "imdb": "nm0005533"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

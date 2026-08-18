@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_muller",
+  "name": "Mike Müller",
+  "external_ids": {
+    "wikidata": "Q121906",
+    "imdb": "nm0618258"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

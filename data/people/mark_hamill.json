@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_hamill",
+  "name": "Mark Hamill",
+  "external_ids": {
+    "wikidata": "Q210447",
+    "imdb": "nm0000434"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

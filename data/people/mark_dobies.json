@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_dobies",
+  "name": "Mark Dobies",
+  "external_ids": {
+    "wikidata": "Q6767383",
+    "imdb": "nm0229681"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959,
+  "death_year": 2025
+}

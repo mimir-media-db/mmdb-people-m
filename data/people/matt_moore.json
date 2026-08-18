@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_moore",
+  "name": "Matt Moore",
+  "external_ids": {
+    "wikidata": "Q288547",
+    "imdb": "nm0601596"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1888,
+  "death_year": 1960
+}

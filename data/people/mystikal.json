@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mystikal",
+  "name": "Mystikal",
+  "external_ids": {
+    "wikidata": "Q962811",
+    "imdb": "nm0617195"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
