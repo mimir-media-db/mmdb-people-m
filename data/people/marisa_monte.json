@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marisa_monte",
+  "name": "Marisa Monte",
+  "external_ids": {
+    "wikidata": "Q51960",
+    "imdb": "nm1343040"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

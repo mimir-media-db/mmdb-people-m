@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mykhailo_zhonin",
+  "name": "Mykhailo Zhonin",
+  "external_ids": {
+    "wikidata": "Q47489868",
+    "imdb": "nm2698289"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

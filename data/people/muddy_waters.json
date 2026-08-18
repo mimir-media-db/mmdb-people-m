@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_muddy_waters",
+  "name": "Muddy Waters",
+  "external_ids": {
+    "wikidata": "Q220707",
+    "imdb": "nm0914149"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1913,
+  "death_year": 1983
+}
