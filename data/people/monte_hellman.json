@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_monte_hellman",
+  "name": "Monte Hellman",
+  "external_ids": {
+    "wikidata": "Q945188",
+    "imdb": "nm0375494"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1932,
+  "death_year": 2021
+}

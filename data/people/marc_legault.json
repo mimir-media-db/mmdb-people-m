@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_legault",
+  "name": "Marc Legault",
+  "external_ids": {
+    "wikidata": "Q3288196",
+    "imdb": "nm0499228"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937
+}

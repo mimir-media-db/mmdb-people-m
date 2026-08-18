@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monica_sweet",
+  "name": "Monica Sweet",
+  "external_ids": {
+    "wikidata": "Q3320732",
+    "imdb": "nm1256088"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

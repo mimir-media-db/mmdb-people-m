@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_melissa_leo",
+  "name": "Melissa Leo",
+  "external_ids": {
+    "wikidata": "Q229410",
+    "imdb": "nm0502425"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

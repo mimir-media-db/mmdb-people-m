@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_blue",
+  "name": "Mick Blue",
+  "external_ids": {
+    "wikidata": "Q86123",
+    "imdb": "nm1120190"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

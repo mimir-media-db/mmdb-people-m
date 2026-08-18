@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_richter",
+  "name": "Marc Richter",
+  "external_ids": {
+    "wikidata": "Q29549507",
+    "imdb": "nm0725319"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

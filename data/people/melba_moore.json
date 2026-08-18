@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_melba_moore",
+  "name": "Melba Moore",
+  "external_ids": {
+    "wikidata": "Q448876",
+    "imdb": "nm0601610"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

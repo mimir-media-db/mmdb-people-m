@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marjol_flore",
+  "name": "Marjol Flore",
+  "external_ids": {
+    "wikidata": "Q1899783",
+    "imdb": "nm0282638"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}
