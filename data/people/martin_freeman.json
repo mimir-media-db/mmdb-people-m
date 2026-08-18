@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_freeman",
+  "name": "Martin Freeman",
+  "external_ids": {
+    "wikidata": "Q309486",
+    "imdb": "nm0293509"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

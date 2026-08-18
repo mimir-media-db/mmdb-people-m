@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mana",
+  "name": "Mana",
+  "external_ids": {
+    "wikidata": "Q355341",
+    "imdb": "nm3163070"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

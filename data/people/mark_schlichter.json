@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_schlichter",
+  "name": "Mark Schlichter",
+  "external_ids": {
+    "wikidata": "Q1502122",
+    "imdb": "nm0772325"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

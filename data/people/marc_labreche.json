@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_labreche",
+  "name": "Marc Labrèche",
+  "external_ids": {
+    "wikidata": "Q3288156",
+    "imdb": "nm0479745"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

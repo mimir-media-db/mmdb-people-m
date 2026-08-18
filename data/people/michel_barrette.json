@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_barrette",
+  "name": "Michel Barrette",
+  "external_ids": {
+    "wikidata": "Q3308948",
+    "imdb": "nm0057326"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}
