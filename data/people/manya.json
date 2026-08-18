@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manya",
+  "name": "Manya",
+  "external_ids": {
+    "wikidata": "Q6753380",
+    "imdb": "nm1474067"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

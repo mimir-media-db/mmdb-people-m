@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_messier",
+  "name": "Marc Messier",
+  "external_ids": {
+    "wikidata": "Q3288258",
+    "imdb": "nm0582126"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947,
+  "death_year": 2026
+}
