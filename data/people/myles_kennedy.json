@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_myles_kennedy",
+  "name": "Myles Kennedy",
+  "external_ids": {
+    "wikidata": "Q289003",
+    "imdb": "nm1042872"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
