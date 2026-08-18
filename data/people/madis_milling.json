@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_madis_milling",
+  "name": "Madis Milling",
+  "external_ids": {
+    "wikidata": "Q16403802",
+    "imdb": "nm1046161"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970,
+  "death_year": 2022
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_kim",
+  "name": "Marc Kim",
+  "external_ids": {
+    "wikidata": "Q113623189",
+    "imdb": "nm1007393"
+  },
+  "last_updated": "2026-08-18"
+}

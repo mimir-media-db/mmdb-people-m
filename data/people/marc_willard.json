@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_willard",
+  "name": "Marc Willard",
+  "external_ids": {
+    "wikidata": "Q54670210",
+    "imdb": "nm0929621"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

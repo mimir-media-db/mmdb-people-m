@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mirko_lang",
+  "name": "Mirko Lang",
+  "external_ids": {
+    "wikidata": "Q74488",
+    "imdb": "nm1065807"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

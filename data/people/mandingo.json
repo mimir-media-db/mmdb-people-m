@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mandingo",
+  "name": "Mandingo",
+  "external_ids": {
+    "wikidata": "Q2743801",
+    "imdb": "nm0541820"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}
