@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mya_diamond",
+  "name": "Mya Diamond",
+  "external_ids": {
+    "wikidata": "Q433331",
+    "imdb": "nm1543182"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

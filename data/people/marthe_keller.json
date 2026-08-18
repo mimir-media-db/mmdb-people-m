@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marthe_keller",
+  "name": "Marthe Keller",
+  "external_ids": {
+    "wikidata": "Q116265",
+    "imdb": "nm0445715"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

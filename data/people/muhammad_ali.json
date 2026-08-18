@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_muhammad_ali",
+  "name": "Muhammad Ali",
+  "external_ids": {
+    "wikidata": "Q36107",
+    "imdb": "nm0000738"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2016
+}

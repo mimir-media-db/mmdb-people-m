@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_romanek",
+  "name": "Mark Romanek",
+  "external_ids": {
+    "wikidata": "Q538145",
+    "imdb": "nm0738796"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

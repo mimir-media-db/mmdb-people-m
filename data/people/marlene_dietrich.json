@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marlene_dietrich",
+  "name": "Marlene Dietrich",
+  "external_ids": {
+    "wikidata": "Q4612",
+    "imdb": "nm0000017"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1901,
+  "death_year": 1992
+}

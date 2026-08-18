@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_manolo_solo",
+  "name": "Manolo Solo",
+  "external_ids": {
+    "wikidata": "Q23055064",
+    "imdb": "nm1254805"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964,
+  "death_year": 2026
+}
