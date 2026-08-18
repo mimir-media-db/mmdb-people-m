@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_eastwood",
+  "name": "Morgan Eastwood",
+  "external_ids": {
+    "wikidata": "Q3323973",
+    "imdb": "nm1765859"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1996
+}

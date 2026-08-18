@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_malibu",
+  "name": "Malibu",
+  "external_ids": {
+    "wikidata": "Q137041547",
+    "imdb": "nm1856227"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

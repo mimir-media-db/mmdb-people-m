@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_ness",
+  "name": "Mike Ness",
+  "external_ids": {
+    "wikidata": "Q713521",
+    "imdb": "nm1107041"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

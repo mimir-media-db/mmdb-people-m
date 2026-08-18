@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_johns",
+  "name": "Marcus Johns",
+  "external_ids": {
+    "wikidata": "Q16058925",
+    "imdb": "nm1426656"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1993
+}

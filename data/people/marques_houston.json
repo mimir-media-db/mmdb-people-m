@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marques_houston",
+  "name": "Marques Houston",
+  "external_ids": {
+    "wikidata": "Q187107",
+    "imdb": "nm0396867"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

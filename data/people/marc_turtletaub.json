@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_turtletaub",
+  "name": "Marc Turtletaub",
+  "external_ids": {
+    "wikidata": "Q1892837",
+    "imdb": "nm1196755"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_d",
+  "name": "Mike D",
+  "external_ids": {
+    "wikidata": "Q2706308",
+    "imdb": "nm0004855"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

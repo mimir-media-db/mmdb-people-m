@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_nochem",
+  "name": "Marc Nochem",
+  "external_ids": {
+    "wikidata": "Q71577773",
+    "imdb": "nm1436775"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

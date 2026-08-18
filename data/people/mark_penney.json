@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_penney",
+  "name": "Mark Penney",
+  "external_ids": {
+    "wikidata": "Q3294198",
+    "imdb": "nm1497931"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

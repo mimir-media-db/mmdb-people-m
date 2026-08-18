@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_sale",
+  "name": "Mike Sale",
+  "external_ids": {
+    "wikidata": "Q114496161",
+    "imdb": "nm1867988"
+  },
+  "last_updated": "2026-08-18"
+}

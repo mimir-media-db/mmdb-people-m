@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_de_bayser",
+  "name": "Marc de Bayser",
+  "external_ids": {
+    "wikidata": "Q95778659",
+    "imdb": "nm0063228"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

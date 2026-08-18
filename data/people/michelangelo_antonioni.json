@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_michelangelo_antonioni",
+  "name": "Michelangelo Antonioni",
+  "external_ids": {
+    "wikidata": "Q55433",
+    "imdb": "nm0000774"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1912,
+  "death_year": 2007
+}

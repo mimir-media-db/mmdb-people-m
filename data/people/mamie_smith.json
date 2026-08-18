@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mamie_smith",
+  "name": "Mamie Smith",
+  "external_ids": {
+    "wikidata": "Q274181",
+    "imdb": "nm0809197"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1891,
+  "death_year": 1946
+}

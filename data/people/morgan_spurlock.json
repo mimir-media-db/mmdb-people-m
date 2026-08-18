@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_spurlock",
+  "name": "Morgan Spurlock",
+  "external_ids": {
+    "wikidata": "Q364421",
+    "imdb": "nm1041597"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970,
+  "death_year": 2024
+}

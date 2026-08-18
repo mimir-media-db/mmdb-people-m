@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_lally",
+  "name": "Mick Lally",
+  "external_ids": {
+    "wikidata": "Q965763",
+    "imdb": "nm0482473"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2010
+}

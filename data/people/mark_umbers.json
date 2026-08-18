@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_umbers",
+  "name": "Mark Umbers",
+  "external_ids": {
+    "wikidata": "Q6770110",
+    "imdb": "nm0880824"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}
