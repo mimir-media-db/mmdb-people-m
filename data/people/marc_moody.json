@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_moody",
+  "name": "Marc Moody",
+  "external_ids": {
+    "wikidata": "Q114729370",
+    "imdb": "nm0600510"
+  },
+  "last_updated": "2026-08-18"
+}
