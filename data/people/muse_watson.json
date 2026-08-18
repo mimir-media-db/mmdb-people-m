@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_muse_watson",
+  "name": "Muse Watson",
+  "external_ids": {
+    "wikidata": "Q261926",
+    "imdb": "nm0002901"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

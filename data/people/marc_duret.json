@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_duret",
+  "name": "Marc Duret",
+  "external_ids": {
+    "wikidata": "Q3287976",
+    "imdb": "nm0244019"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

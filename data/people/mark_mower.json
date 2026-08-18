@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_mower",
+  "name": "Mark Mower",
+  "external_ids": {
+    "wikidata": "Q117859305",
+    "imdb": "nm0610272"
+  },
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_ruffalo",
+  "name": "Mark Ruffalo",
+  "external_ids": {
+    "wikidata": "Q41422",
+    "imdb": "nm0749263"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

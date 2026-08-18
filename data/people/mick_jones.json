@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_jones",
+  "name": "Mick Jones",
+  "external_ids": {
+    "wikidata": "Q357310",
+    "imdb": "nm0428851"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

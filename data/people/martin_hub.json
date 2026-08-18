@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_hub",
+  "name": "Martin Hub",
+  "external_ids": {
+    "wikidata": "Q12035731",
+    "imdb": "nm0399103"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

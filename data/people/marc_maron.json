@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_maron",
+  "name": "Marc Maron",
+  "external_ids": {
+    "wikidata": "Q3288246",
+    "imdb": "nm0549505"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}
