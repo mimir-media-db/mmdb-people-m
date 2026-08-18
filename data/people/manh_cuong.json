@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manh_cuong",
+  "name": "Manh Cuong",
+  "external_ids": {
+    "wikidata": "Q108396632",
+    "imdb": "nm0870878"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

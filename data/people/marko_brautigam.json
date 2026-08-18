@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marko_brautigam",
+  "name": "Marko Bräutigam",
+  "external_ids": {
+    "wikidata": "Q95902423",
+    "imdb": "nm1309511"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

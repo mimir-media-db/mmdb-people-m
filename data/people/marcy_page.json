@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcy_page",
+  "name": "Marcy Page",
+  "external_ids": {
+    "wikidata": "Q19748197",
+    "imdb": "nm0656265"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}

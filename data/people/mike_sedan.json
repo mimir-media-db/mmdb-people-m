@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_sedan",
+  "name": "Mike Sedan",
+  "external_ids": {
+    "wikidata": "Q114026673",
+    "imdb": "nm0781230"
+  },
+  "last_updated": "2026-08-18"
+}

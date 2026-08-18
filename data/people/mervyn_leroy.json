@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mervyn_leroy",
+  "name": "Mervyn LeRoy",
+  "external_ids": {
+    "wikidata": "Q103788",
+    "imdb": "nm0503777"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900,
+  "death_year": 1987
+}

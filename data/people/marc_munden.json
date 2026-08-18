@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_munden",
+  "name": "Marc Munden",
+  "external_ids": {
+    "wikidata": "Q30595337",
+    "imdb": "nm0612720"
+  },
+  "last_updated": "2026-08-18"
+}

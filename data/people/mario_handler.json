@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mario_handler",
+  "name": "Mario Handler",
+  "external_ids": {
+    "wikidata": "Q5998742",
+    "imdb": "nm0359585"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_warren",
+  "name": "Marc Warren",
+  "external_ids": {
+    "wikidata": "Q766373",
+    "imdb": "nm0912938"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

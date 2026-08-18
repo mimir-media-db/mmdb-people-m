@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_todd",
+  "name": "Mike Todd",
+  "external_ids": {
+    "wikidata": "Q240566",
+    "imdb": "nm0865239"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1909,
+  "death_year": 1958
+}
