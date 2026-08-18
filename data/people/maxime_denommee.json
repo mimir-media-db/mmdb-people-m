@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maxime_denommee",
+  "name": "Maxime Denommée",
+  "external_ids": {
+    "wikidata": "Q16171320",
+    "imdb": "nm1141195"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

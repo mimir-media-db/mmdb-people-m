@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_seater",
+  "name": "Michael Seater",
+  "external_ids": {
+    "wikidata": "Q527526",
+    "imdb": "nm0780817"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1987
+}

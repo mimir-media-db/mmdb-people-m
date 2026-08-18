@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_patton",
+  "name": "Mike Patton",
+  "external_ids": {
+    "wikidata": "Q316878",
+    "imdb": "nm0666604"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

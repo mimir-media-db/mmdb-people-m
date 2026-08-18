@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mel_lisboa",
+  "name": "Mel Lisboa",
+  "external_ids": {
+    "wikidata": "Q3062533",
+    "imdb": "nm1036670"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

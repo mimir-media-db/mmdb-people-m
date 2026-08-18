@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_crosby",
+  "name": "Mary Crosby",
+  "external_ids": {
+    "wikidata": "Q433368",
+    "imdb": "nm0002026"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

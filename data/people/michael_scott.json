@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_scott",
+  "name": "Michael Scott",
+  "external_ids": {
+    "wikidata": "Q102209374",
+    "imdb": "nm1212040"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

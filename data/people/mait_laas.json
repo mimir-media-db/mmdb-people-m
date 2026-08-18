@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mait_laas",
+  "name": "Mait Laas",
+  "external_ids": {
+    "wikidata": "Q95314439",
+    "imdb": "nm1001259"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

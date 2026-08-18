@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_black",
+  "name": "Mary Black",
+  "external_ids": {
+    "wikidata": "Q262746",
+    "imdb": "nm0085421"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}
