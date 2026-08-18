@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maria_verdi",
+  "name": "Maria Verdi",
+  "external_ids": {
+    "wikidata": "Q3291081",
+    "imdb": "nm0893812"
+  },
+  "last_updated": "2026-08-13",
+  "death_year": null
+}

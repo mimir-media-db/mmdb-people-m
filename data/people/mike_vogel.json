@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_vogel",
+  "name": "Mike Vogel",
+  "external_ids": {
+    "wikidata": "Q40122",
+    "imdb": "nm1036181"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1979,
+  "death_year": null
+}

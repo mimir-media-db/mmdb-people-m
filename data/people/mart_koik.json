@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mart_koik",
+  "name": "Märt Koik",
+  "external_ids": {
+    "wikidata": "Q61111678",
+    "imdb": "nm4786393"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1990,
+  "death_year": null
+}

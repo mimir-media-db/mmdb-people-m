@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_drobot",
+  "name": "Mark Drobot",
+  "external_ids": {
+    "wikidata": "Q28701979",
+    "imdb": "nm8650567"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1986,
+  "death_year": null
+}

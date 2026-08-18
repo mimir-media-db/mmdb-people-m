@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_melania_cruz",
+  "name": "Melania Cruz",
+  "external_ids": {
+    "wikidata": "Q20535110",
+    "imdb": "nm6878395"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1983,
+  "death_year": null
+}

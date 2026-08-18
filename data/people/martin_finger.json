@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_finger",
+  "name": "Martin Finger",
+  "external_ids": {
+    "wikidata": "Q15076049",
+    "imdb": "nm1898925"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1970,
+  "death_year": null
+}

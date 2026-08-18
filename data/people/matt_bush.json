@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_bush",
+  "name": "Matt Bush",
+  "external_ids": {
+    "wikidata": "Q5356821",
+    "imdb": "nm1926948"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1986,
+  "death_year": null
+}

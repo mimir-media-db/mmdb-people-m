@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_platt",
+  "name": "Marc Platt",
+  "external_ids": {
+    "wikidata": "Q6755521",
+    "imdb": "nm0686887"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1957,
+  "death_year": null
+}

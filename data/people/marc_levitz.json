@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_levitz",
+  "name": "Marc Levitz",
+  "external_ids": {
+    "wikidata": "Q115016043",
+    "imdb": "nm2551785"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}
