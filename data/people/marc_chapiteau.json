@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_chapiteau",
+  "name": "Marc Chapiteau",
+  "external_ids": {
+    "wikidata": "Q3287895",
+    "imdb": "nm0152211"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

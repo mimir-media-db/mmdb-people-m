@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monica_potter",
+  "name": "Monica Potter",
+  "external_ids": {
+    "wikidata": "Q234344",
+    "imdb": "nm0005321"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

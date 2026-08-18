@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monique",
+  "name": "Mo'Nique",
+  "external_ids": {
+    "wikidata": "Q229169",
+    "imdb": "nm0594898"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

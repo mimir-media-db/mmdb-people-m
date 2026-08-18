@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mats_andersson",
+  "name": "Mats Andersson",
+  "external_ids": {
+    "wikidata": "Q5555469",
+    "imdb": "nm0027767"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

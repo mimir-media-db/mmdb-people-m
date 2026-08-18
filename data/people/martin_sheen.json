@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_sheen",
+  "name": "Martin Sheen",
+  "external_ids": {
+    "wikidata": "Q184572",
+    "imdb": "nm0000640"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

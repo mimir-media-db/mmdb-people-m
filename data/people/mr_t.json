@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mr_t",
+  "name": "Mr. T",
+  "external_ids": {
+    "wikidata": "Q295107",
+    "imdb": "nm0001558"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
