@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maryline_even",
+  "name": "Maryline Even",
+  "external_ids": {
+    "wikidata": "Q3296295",
+    "imdb": "nm0263409"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

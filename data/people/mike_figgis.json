@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_figgis",
+  "name": "Mike Figgis",
+  "external_ids": {
+    "wikidata": "Q710131",
+    "imdb": "nm0001214"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

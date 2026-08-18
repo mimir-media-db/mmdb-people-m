@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_cain",
+  "name": "Mick Cain",
+  "external_ids": {
+    "wikidata": "Q2411781",
+    "imdb": "nm0128942"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

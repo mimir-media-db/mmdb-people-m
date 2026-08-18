@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_martinez",
+  "name": "Marc Martínez",
+  "external_ids": {
+    "wikidata": "Q17148302",
+    "imdb": "nm0555213"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

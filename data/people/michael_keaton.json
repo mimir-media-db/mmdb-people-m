@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_keaton",
+  "name": "Michael Keaton",
+  "external_ids": {
+    "wikidata": "Q138005",
+    "imdb": "nm0000474"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

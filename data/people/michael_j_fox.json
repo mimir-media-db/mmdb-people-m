@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_j_fox",
+  "name": "Michael J. Fox",
+  "external_ids": {
+    "wikidata": "Q395274",
+    "imdb": "nm0000150"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_missonnier",
+  "name": "Marc Missonnier",
+  "external_ids": {
+    "wikidata": "Q14124196",
+    "imdb": "nm0592945"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_pickering",
+  "name": "Marc Pickering",
+  "external_ids": {
+    "wikidata": "Q447218",
+    "imdb": "nm0681844"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}
