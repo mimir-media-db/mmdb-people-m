@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mo_bakker",
+  "name": "Mo Bakker",
+  "external_ids": {
+    "wikidata": "Q131539910",
+    "imdb": "nm6978559"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2006
+}
