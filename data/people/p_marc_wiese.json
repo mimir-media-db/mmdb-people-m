@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_wiese",
+  "name": "Marc Wiese",
+  "external_ids": {
+    "wikidata": "Q16854418",
+    "imdb": "nm1475981"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
