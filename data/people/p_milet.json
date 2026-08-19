@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_milet",
+  "name": "Milet",
+  "external_ids": {
+    "wikidata": "Q61989561",
+    "imdb": "nm12827938"
+  },
+  "last_updated": "2026-08-19"
+}
