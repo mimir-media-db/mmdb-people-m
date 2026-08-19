@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martufello",
+  "name": "Martufello",
+  "external_ids": {
+    "wikidata": "Q2714405",
+    "imdb": "nm0554364"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mikey_alfred",
+  "name": "Mikey Alfred",
+  "external_ids": {
+    "wikidata": "Q64746244",
+    "imdb": "nm7701607"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
