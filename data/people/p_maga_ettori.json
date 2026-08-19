@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maga_ettori",
+  "name": "Magà Ettori",
+  "external_ids": {
+    "wikidata": "Q27804610",
+    "imdb": "nm4886334"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
