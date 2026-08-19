@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_melan",
+  "name": "Melan",
+  "external_ids": {
+    "wikidata": "Q111395824",
+    "imdb": "nm13083198"
+  },
+  "last_updated": "2026-08-19"
+}

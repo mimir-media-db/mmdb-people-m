@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_monero",
+  "name": "Mark Monero",
+  "external_ids": {
+    "wikidata": "Q9374505",
+    "imdb": "nm0597853"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
