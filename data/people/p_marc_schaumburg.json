@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_schaumburg",
+  "name": "Marc Schaumburg",
+  "external_ids": {
+    "wikidata": "Q57617371",
+    "imdb": "nm2217828"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

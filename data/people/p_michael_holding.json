@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_holding",
+  "name": "Michael Holding",
+  "external_ids": {
+    "wikidata": "Q3763998",
+    "imdb": "nm1307449"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

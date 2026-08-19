@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_dolnitz",
+  "name": "Marc Dolnitz",
+  "external_ids": {
+    "wikidata": "Q3287946",
+    "imdb": "nm0230368"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1921,
+  "death_year": 2000
+}

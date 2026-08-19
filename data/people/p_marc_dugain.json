@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_dugain",
+  "name": "Marc Dugain",
+  "external_ids": {
+    "wikidata": "Q3287980",
+    "imdb": "nm1029158"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

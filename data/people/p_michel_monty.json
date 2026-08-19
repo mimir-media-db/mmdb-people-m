@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_monty",
+  "name": "Michel Monty",
+  "external_ids": {
+    "wikidata": "Q6836496",
+    "imdb": "nm0600360"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1932
+}

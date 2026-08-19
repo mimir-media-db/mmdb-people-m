@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_henry",
+  "name": "Mike Henry",
+  "external_ids": {
+    "wikidata": "Q1056114",
+    "imdb": "nm1396611"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
