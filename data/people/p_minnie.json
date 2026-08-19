@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_minnie",
+  "name": "Minnie",
+  "external_ids": {
+    "wikidata": "Q56761923",
+    "imdb": "nm9926857"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}

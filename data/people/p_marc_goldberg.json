@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_goldberg",
+  "name": "Marc Goldberg",
+  "external_ids": {
+    "wikidata": "Q62023175",
+    "imdb": "nm4709773"
+  },
+  "last_updated": "2026-08-19"
+}
