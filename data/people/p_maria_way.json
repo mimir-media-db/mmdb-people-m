@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maria_way",
+  "name": "Maria Way",
+  "external_ids": {
+    "wikidata": "Q61709637",
+    "imdb": "nm8502168"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
