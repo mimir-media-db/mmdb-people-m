@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_klein",
+  "name": "Michel Klein",
+  "external_ids": {
+    "wikidata": "Q3310033",
+    "imdb": "nm1201538"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
