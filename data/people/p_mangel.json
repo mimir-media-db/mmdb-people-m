@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mangel",
+  "name": "Mangel",
+  "external_ids": {
+    "wikidata": "Q112108121",
+    "imdb": "nm8319361"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_riso",
+  "name": "Marc Riso",
+  "external_ids": {
+    "wikidata": "Q109044319",
+    "imdb": "nm6848464"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

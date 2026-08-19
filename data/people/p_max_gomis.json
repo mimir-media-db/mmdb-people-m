@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_max_gomis",
+  "name": "Max Gomis",
+  "external_ids": {
+    "wikidata": "Q117454797",
+    "imdb": "nm2769392"
+  },
+  "last_updated": "2026-08-19"
+}
