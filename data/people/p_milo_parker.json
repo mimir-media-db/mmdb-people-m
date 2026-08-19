@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milo_parker",
+  "name": "Milo Parker",
+  "external_ids": {
+    "wikidata": "Q20974099",
+    "imdb": "nm6057785"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2002
+}

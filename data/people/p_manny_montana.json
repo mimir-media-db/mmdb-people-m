@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manny_montana",
+  "name": "Manny Montana",
+  "external_ids": {
+    "wikidata": "Q18045010",
+    "imdb": "nm2861303"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_lepetit",
+  "name": "Marc Lepetit",
+  "external_ids": {
+    "wikidata": "Q95785730",
+    "imdb": "nm0503277"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

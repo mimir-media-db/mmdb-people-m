@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marina_person",
+  "name": "Marina Person",
+  "external_ids": {
+    "wikidata": "Q6763884",
+    "imdb": "nm1495717"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
