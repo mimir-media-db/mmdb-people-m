@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_holden",
+  "name": "Mark Holden",
+  "external_ids": {
+    "wikidata": "Q89112288",
+    "imdb": "nm0390236"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}
