@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marinus_hohmann",
+  "name": "Marinus Hohmann",
+  "external_ids": {
+    "wikidata": "Q60429169",
+    "imdb": "nm6279295"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2004
+}
