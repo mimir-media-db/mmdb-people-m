@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maari",
+  "name": "Maari",
+  "external_ids": {
+    "wikidata": "Q11677441",
+    "imdb": "nm3612885"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}

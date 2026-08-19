@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_merlin_rose",
+  "name": "Merlin Rose",
+  "external_ids": {
+    "wikidata": "Q18025807",
+    "imdb": "nm3612367"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
