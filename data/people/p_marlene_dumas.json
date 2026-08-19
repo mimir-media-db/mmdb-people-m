@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marlene_dumas",
+  "name": "Marlene Dumas",
+  "external_ids": {
+    "wikidata": "Q260617",
+    "imdb": "nm2478338"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}

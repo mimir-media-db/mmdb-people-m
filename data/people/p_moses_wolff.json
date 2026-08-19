@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_moses_wolff",
+  "name": "Moses Wolff",
+  "external_ids": {
+    "wikidata": "Q1949229",
+    "imdb": "nm2222768"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
