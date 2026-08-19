@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mira_fornay",
+  "name": "Mira Fornay",
+  "external_ids": {
+    "wikidata": "Q17024517",
+    "imdb": "nm1007017"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

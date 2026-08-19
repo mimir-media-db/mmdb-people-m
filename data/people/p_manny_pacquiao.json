@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manny_pacquiao",
+  "name": "Manny Pacquiao",
+  "external_ids": {
+    "wikidata": "Q486359",
+    "imdb": "nm1301525"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

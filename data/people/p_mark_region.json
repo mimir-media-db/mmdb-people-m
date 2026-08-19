@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_region",
+  "name": "Mark Region",
+  "external_ids": {
+    "wikidata": "Q95686459",
+    "imdb": "nm2944675"
+  },
+  "last_updated": "2026-08-19"
+}

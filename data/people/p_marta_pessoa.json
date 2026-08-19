@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marta_pessoa",
+  "name": "Marta Pessoa",
+  "external_ids": {
+    "wikidata": "Q100348028",
+    "imdb": "nm0676080"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

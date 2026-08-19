@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mao_zedong",
+  "name": "Mao Zedong",
+  "external_ids": {
+    "wikidata": "Q5816",
+    "imdb": "nm0544552"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1893,
+  "death_year": 1976
+}
