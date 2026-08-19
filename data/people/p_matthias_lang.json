@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matthias_lang",
+  "name": "Matthias Lang",
+  "external_ids": {
+    "wikidata": "Q95258604",
+    "imdb": "nm3265698"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

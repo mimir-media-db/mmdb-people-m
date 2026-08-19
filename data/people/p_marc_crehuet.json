@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_crehuet",
+  "name": "Marc Crehuet",
+  "external_ids": {
+    "wikidata": "Q28575458",
+    "imdb": "nm2148234"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

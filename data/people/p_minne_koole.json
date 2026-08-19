@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_minne_koole",
+  "name": "Minne Koole",
+  "external_ids": {
+    "wikidata": "Q104840950",
+    "imdb": "nm6614076"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_zahle",
+  "name": "Max Zahle",
+  "external_ids": {
+    "wikidata": "Q117062",
+    "imdb": "nm2020448"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

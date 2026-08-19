@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maha_haj",
+  "name": "Maha Haj",
+  "external_ids": {
+    "wikidata": "Q27847794",
+    "imdb": "nm3326361"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

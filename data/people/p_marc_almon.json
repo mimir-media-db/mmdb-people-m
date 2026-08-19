@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_almon",
+  "name": "Marc Almon",
+  "external_ids": {
+    "wikidata": "Q20810409",
+    "imdb": "nm1825103"
+  },
+  "last_updated": "2026-08-19"
+}

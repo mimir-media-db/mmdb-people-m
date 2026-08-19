@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maureen_judge",
+  "name": "Maureen Judge",
+  "external_ids": {
+    "wikidata": "Q6792699",
+    "imdb": "nm0431916"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

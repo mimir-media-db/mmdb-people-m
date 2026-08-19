@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_michel",
+  "name": "Marc Michel",
+  "external_ids": {
+    "wikidata": "Q3288259",
+    "imdb": "nm0584879"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1929,
+  "death_year": 2016
+}

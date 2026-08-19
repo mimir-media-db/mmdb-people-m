@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_magnus_mark",
+  "name": "Magnus Mark",
+  "external_ids": {
+    "wikidata": "Q5976833",
+    "imdb": "nm0548262"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

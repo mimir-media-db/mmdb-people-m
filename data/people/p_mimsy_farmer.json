@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mimsy_farmer",
+  "name": "Mimsy Farmer",
+  "external_ids": {
+    "wikidata": "Q445105",
+    "imdb": "nm0002069"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcie_begleiter",
+  "name": "Marcie Begleiter",
+  "external_ids": {
+    "wikidata": "Q23805000",
+    "imdb": "nm0197744"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}
