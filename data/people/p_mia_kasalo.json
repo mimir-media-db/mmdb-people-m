@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mia_kasalo",
+  "name": "Mia Kasalo",
+  "external_ids": {
+    "wikidata": "Q20752117",
+    "imdb": "nm5186397"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2002
+}
