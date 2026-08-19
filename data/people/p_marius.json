@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marius",
+  "name": "Marius",
+  "external_ids": {
+    "wikidata": "Q22683413",
+    "imdb": "nm4091690"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

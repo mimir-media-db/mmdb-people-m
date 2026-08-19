@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_blum",
+  "name": "Mark Blum",
+  "external_ids": {
+    "wikidata": "Q1868688",
+    "imdb": "nm0089685"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950,
+  "death_year": 2020
+}
