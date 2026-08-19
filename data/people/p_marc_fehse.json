@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_fehse",
+  "name": "Marc Fehse",
+  "external_ids": {
+    "wikidata": "Q57648020",
+    "imdb": "nm1047856"
+  },
+  "last_updated": "2026-08-19"
+}

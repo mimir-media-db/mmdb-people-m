@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_signer",
+  "name": "Marcus Signer",
+  "external_ids": {
+    "wikidata": "Q13640000",
+    "imdb": "nm0797507"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

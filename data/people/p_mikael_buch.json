@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mikael_buch",
+  "name": "Mikael Buch",
+  "external_ids": {
+    "wikidata": "Q3313145",
+    "imdb": "nm2303069"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

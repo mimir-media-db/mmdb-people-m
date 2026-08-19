@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_gunther",
+  "name": "Mike Gunther",
+  "external_ids": {
+    "wikidata": "Q30635468",
+    "imdb": "nm0348389"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

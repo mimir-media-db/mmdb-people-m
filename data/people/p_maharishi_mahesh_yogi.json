@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_maharishi_mahesh_yogi",
+  "name": "Maharishi Mahesh Yogi",
+  "external_ids": {
+    "wikidata": "Q244968",
+    "imdb": "nm0948343"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1917,
+  "death_year": 2008
+}
