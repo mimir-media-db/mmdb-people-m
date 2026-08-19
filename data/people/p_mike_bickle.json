@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_bickle",
+  "name": "Mike Bickle",
+  "external_ids": {
+    "wikidata": "Q1933057",
+    "imdb": "nm3832331"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

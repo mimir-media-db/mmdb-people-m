@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mason_moore",
+  "name": "Mason Moore",
+  "external_ids": {
+    "wikidata": "Q3034240",
+    "imdb": "nm3209523"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_medi_sadoun",
+  "name": "Medi Sadoun",
+  "external_ids": {
+    "wikidata": "Q16663967",
+    "imdb": "nm4150929"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}
