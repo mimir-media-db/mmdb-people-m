@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marie_chevalier",
+  "name": "Marie Chevalier",
+  "external_ids": {
+    "wikidata": "Q3292437",
+    "imdb": "nm0156658"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
