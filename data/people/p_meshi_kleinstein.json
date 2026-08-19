@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_meshi_kleinstein",
+  "name": "Meshi Kleinstein",
+  "external_ids": {
+    "wikidata": "Q27990201",
+    "imdb": "nm9396687"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}

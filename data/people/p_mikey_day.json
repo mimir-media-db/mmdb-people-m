@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mikey_day",
+  "name": "Mikey Day",
+  "external_ids": {
+    "wikidata": "Q6849449",
+    "imdb": "nm1510062"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
