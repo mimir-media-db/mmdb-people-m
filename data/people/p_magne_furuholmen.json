@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_magne_furuholmen",
+  "name": "Magne Furuholmen",
+  "external_ids": {
+    "wikidata": "Q454075",
+    "imdb": "nm0299176"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

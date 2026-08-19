@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mr_macaroni",
+  "name": "Mr Macaroni",
+  "external_ids": {
+    "wikidata": "Q100436173",
+    "imdb": "nm12354481"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}

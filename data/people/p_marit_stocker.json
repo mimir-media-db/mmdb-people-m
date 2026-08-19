@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marit_stocker",
+  "name": "Marit Stocker",
+  "external_ids": {
+    "wikidata": "Q38452616",
+    "imdb": "nm3412606"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
