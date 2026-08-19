@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_manning",
+  "name": "Mike Manning",
+  "external_ids": {
+    "wikidata": "Q6847791",
+    "imdb": "nm3374198"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
