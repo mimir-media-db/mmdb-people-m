@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_winkler",
+  "name": "Max Winkler",
+  "external_ids": {
+    "wikidata": "Q16222541",
+    "imdb": "nm0935253"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
