@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_myra",
+  "name": "Myra",
+  "external_ids": {
+    "wikidata": "Q31081330",
+    "imdb": "nm9841280"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

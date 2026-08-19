@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_burns",
+  "name": "Mike Burns",
+  "external_ids": {
+    "wikidata": "Q6846200",
+    "imdb": "nm1230733"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}
