@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_swenker",
+  "name": "Marc Swenker",
+  "external_ids": {
+    "wikidata": "Q81272688",
+    "imdb": "nm2806078"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

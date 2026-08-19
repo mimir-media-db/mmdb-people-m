@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marika_muiste",
+  "name": "Marika Muiste",
+  "external_ids": {
+    "wikidata": "Q124343357",
+    "imdb": "nm7970015"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

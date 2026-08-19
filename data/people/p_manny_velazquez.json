@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manny_velazquez",
+  "name": "Manny Velazquez",
+  "external_ids": {
+    "wikidata": "Q27039098",
+    "imdb": "nm3220274"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}

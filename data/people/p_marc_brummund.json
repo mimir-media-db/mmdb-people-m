@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_brummund",
+  "name": "Marc Brummund",
+  "external_ids": {
+    "wikidata": "Q20071786",
+    "imdb": "nm2227524"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
