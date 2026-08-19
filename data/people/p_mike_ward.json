@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_ward",
+  "name": "Mike Ward",
+  "external_ids": {
+    "wikidata": "Q3313575",
+    "imdb": "nm1482904"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}
