@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_fey",
+  "name": "Max Fey",
+  "external_ids": {
+    "wikidata": "Q27863171",
+    "imdb": "nm2429461"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
