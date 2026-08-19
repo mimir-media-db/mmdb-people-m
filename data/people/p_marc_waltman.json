@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_waltman",
+  "name": "Marc Waltman",
+  "external_ids": {
+    "wikidata": "Q115172850",
+    "imdb": "nm0910460"
+  },
+  "last_updated": "2026-08-19"
+}
