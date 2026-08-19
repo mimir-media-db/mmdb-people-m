@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_garcia_cote",
+  "name": "Marc García Coté",
+  "external_ids": {
+    "wikidata": "Q11935150",
+    "imdb": "nm1705289"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
