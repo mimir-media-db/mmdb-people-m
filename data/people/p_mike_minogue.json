@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_minogue",
+  "name": "Mike Minogue",
+  "external_ids": {
+    "wikidata": "Q56257228",
+    "imdb": "nm2333404"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

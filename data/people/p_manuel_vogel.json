@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manuel_vogel",
+  "name": "Manuel Vogel",
+  "external_ids": {
+    "wikidata": "Q64491965",
+    "imdb": "nm5116387"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}
