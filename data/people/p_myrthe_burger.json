@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_myrthe_burger",
+  "name": "Myrthe Burger",
+  "external_ids": {
+    "wikidata": "Q71577751",
+    "imdb": "nm5440816"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
