@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_deeds",
+  "name": "Max Deeds",
+  "external_ids": {
+    "wikidata": "Q114872525",
+    "imdb": "nm7132133"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

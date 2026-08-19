@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_marc_nochem",
-  "name": "Marc Nochem",
+  "id": "p_megan_brown",
+  "name": "Megan Brown",
   "external_ids": {
-    "wikidata": "Q71577773",
-    "imdb": "nm1436775"
+    "wikidata": "Q10328249",
+    "imdb": "nm1814057"
   },
   "last_updated": "2026-08-19",
   "birth_year": 1976
