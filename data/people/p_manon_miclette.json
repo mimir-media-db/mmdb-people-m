@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manon_miclette",
+  "name": "Manon Miclette",
+  "external_ids": {
+    "wikidata": "Q3286463",
+    "imdb": "nm0585372"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

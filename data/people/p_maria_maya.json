@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maria_maya",
+  "name": "Maria Maya",
+  "external_ids": {
+    "wikidata": "Q5251231",
+    "imdb": "nm0562185"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

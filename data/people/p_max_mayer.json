@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_mayer",
+  "name": "Max Mayer",
+  "external_ids": {
+    "wikidata": "Q16732187",
+    "imdb": "nm0562470"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

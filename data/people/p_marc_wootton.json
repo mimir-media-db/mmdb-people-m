@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_wootton",
+  "name": "Marc Wootton",
+  "external_ids": {
+    "wikidata": "Q6246714",
+    "imdb": "nm1742630"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

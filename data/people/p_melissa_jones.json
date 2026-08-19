@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_melissa_jones",
+  "name": "Melissa Jones",
+  "external_ids": {
+    "wikidata": "Q3854235",
+    "imdb": "nm3135141"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

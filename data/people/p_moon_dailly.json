@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_moon_dailly",
+  "name": "Moon Dailly",
+  "external_ids": {
+    "wikidata": "Q3323546",
+    "imdb": "nm2069215"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

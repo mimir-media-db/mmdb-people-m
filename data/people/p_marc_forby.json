@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_forby",
+  "name": "Marc Forby",
+  "external_ids": {
+    "wikidata": "Q113997177",
+    "imdb": "nm0285436"
+  },
+  "last_updated": "2026-08-19"
+}
