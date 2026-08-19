@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mario",
+  "name": "Mario",
+  "external_ids": {
+    "wikidata": "Q177131",
+    "imdb": "nm1276562"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

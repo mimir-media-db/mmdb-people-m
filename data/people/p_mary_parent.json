@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mary_parent",
+  "name": "Mary Parent",
+  "external_ids": {
+    "wikidata": "Q6780480",
+    "imdb": "nm0661289"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

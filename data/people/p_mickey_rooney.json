@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mickey_rooney",
+  "name": "Mickey Rooney",
+  "external_ids": {
+    "wikidata": "Q104081",
+    "imdb": "nm0001682"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1920,
+  "death_year": 2014
+}
