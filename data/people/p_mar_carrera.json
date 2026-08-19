@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mar_carrera",
+  "name": "Mar Carrera",
+  "external_ids": {
+    "wikidata": "Q21587562",
+    "imdb": "nm1667376"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
