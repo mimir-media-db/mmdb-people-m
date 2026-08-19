@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mona_petri",
+  "name": "Mona Petri",
+  "external_ids": {
+    "wikidata": "Q120687",
+    "imdb": "nm1143713"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

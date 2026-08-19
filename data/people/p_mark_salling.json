@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_salling",
+  "name": "Mark Salling",
+  "external_ids": {
+    "wikidata": "Q314424",
+    "imdb": "nm0758597"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982,
+  "death_year": 2018
+}

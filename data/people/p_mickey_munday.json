@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mickey_munday",
+  "name": "Mickey Munday",
+  "external_ids": {
+    "wikidata": "Q16107057",
+    "imdb": "nm2666992"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

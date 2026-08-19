@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_poulette",
+  "name": "Michel Poulette",
+  "external_ids": {
+    "wikidata": "Q3310627",
+    "imdb": "nm0693599"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

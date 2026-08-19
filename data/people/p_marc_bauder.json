@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_bauder",
+  "name": "Marc Bauder",
+  "external_ids": {
+    "wikidata": "Q17537137",
+    "imdb": "nm1519249"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
