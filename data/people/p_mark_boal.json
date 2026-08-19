@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_boal",
+  "name": "Mark Boal",
+  "external_ids": {
+    "wikidata": "Q370765",
+    "imdb": "nm1676793"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

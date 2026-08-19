@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_murtuz_yolcu",
+  "name": "Mürtüz Yolcu",
+  "external_ids": {
+    "wikidata": "Q1959302",
+    "imdb": "nm2564364"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

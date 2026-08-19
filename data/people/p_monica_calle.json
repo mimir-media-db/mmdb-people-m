@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monica_calle",
+  "name": "Mónica Calle",
+  "external_ids": {
+    "wikidata": "Q17623182",
+    "imdb": "nm0130385"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}

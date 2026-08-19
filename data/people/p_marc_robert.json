@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_robert",
+  "name": "Marc Robert",
+  "external_ids": {
+    "wikidata": "Q95912961",
+    "imdb": "nm1600229"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

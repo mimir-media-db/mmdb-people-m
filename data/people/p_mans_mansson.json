@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mans_mansson",
+  "name": "Måns Månsson",
+  "external_ids": {
+    "wikidata": "Q6000280",
+    "imdb": "nm3168051"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

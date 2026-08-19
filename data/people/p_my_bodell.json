@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_my_bodell",
+  "name": "My Bodell",
+  "external_ids": {
+    "wikidata": "Q4939715",
+    "imdb": "nm0090852"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_jean",
+  "name": "Mark Jean",
+  "external_ids": {
+    "wikidata": "Q22236380",
+    "imdb": "nm0419865"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
