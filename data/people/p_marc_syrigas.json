@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_syrigas",
+  "name": "Marc Syrigas",
+  "external_ids": {
+    "wikidata": "Q15170433",
+    "imdb": "nm0843483"
+  },
+  "last_updated": "2026-08-19"
+}

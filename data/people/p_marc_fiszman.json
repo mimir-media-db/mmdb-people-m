@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_fiszman",
+  "name": "Marc Fiszman",
+  "external_ids": {
+    "wikidata": "Q16662854",
+    "imdb": "nm2145368"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_schank",
+  "name": "Mike Schank",
+  "external_ids": {
+    "wikidata": "Q16196686",
+    "imdb": "nm0770023"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969,
+  "death_year": 2022
+}

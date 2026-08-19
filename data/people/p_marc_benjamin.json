@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_benjamin",
+  "name": "Marc Benjamin",
+  "external_ids": {
+    "wikidata": "Q21880688",
+    "imdb": "nm0071330"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
