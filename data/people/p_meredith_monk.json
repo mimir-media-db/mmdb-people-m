@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_meredith_monk",
+  "name": "Meredith Monk",
+  "external_ids": {
+    "wikidata": "Q267170",
+    "imdb": "nm0598229"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942
+}

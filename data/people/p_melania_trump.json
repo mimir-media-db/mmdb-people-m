@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_melania_trump",
+  "name": "Melania Trump",
+  "external_ids": {
+    "wikidata": "Q432473",
+    "imdb": "nm1514936"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
