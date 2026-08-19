@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_hall",
+  "name": "Martin Hall",
+  "external_ids": {
+    "wikidata": "Q12326254",
+    "imdb": "nm1530509"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963,
+  "death_year": 2026
+}

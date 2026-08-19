@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martha_stewart",
+  "name": "Martha Stewart",
+  "external_ids": {
+    "wikidata": "Q234606",
+    "imdb": "nm0829644"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1941
+}

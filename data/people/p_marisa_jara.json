@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marisa_jara",
+  "name": "Marisa Jara",
+  "external_ids": {
+    "wikidata": "Q3849318",
+    "imdb": "nm2953678"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

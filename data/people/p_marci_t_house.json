@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marci_t_house",
+  "name": "Marci T. House",
+  "external_ids": {
+    "wikidata": "Q63349157",
+    "imdb": "nm0396685"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

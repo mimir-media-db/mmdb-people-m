@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_memphis_monroe",
+  "name": "Memphis Monroe",
+  "external_ids": {
+    "wikidata": "Q256537",
+    "imdb": "nm2019498"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

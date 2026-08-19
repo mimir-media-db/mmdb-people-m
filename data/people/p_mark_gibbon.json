@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_gibbon",
+  "name": "Mark Gibbon",
+  "external_ids": {
+    "wikidata": "Q6767740",
+    "imdb": "nm0316515"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}

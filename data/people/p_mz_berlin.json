@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mz_berlin",
+  "name": "Mz. Berlin",
+  "external_ids": {
+    "wikidata": "Q137151476",
+    "imdb": "nm3208727"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
