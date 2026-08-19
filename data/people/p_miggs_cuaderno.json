@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_miggs_cuaderno",
+  "name": "Miggs Cuaderno",
+  "external_ids": {
+    "wikidata": "Q28871480",
+    "imdb": "nm4581736"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2003
+}

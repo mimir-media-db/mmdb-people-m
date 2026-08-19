@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_day",
+  "name": "Mike Day",
+  "external_ids": {
+    "wikidata": "Q26884362",
+    "imdb": "nm4571157"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
