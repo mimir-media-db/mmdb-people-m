@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_bluhm",
+  "name": "Marc Bluhm",
+  "external_ids": {
+    "wikidata": "Q24174904",
+    "imdb": "nm4139884"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
