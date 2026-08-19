@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mila_lieu",
+  "name": "Mila Lieu",
+  "external_ids": {
+    "wikidata": "Q120143219",
+    "imdb": "nm12546266"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2012
+}
