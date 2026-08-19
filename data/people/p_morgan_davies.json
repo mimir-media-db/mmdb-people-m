@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_davies",
+  "name": "Morgan Davies",
+  "external_ids": {
+    "wikidata": "Q6911944",
+    "imdb": "nm3115934"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2001
+}
