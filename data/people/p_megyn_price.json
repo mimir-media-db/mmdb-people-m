@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_megyn_price",
+  "name": "Megyn Price",
+  "external_ids": {
+    "wikidata": "Q266901",
+    "imdb": "nm0697044"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

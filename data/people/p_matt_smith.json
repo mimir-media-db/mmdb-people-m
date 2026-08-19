@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_smith",
+  "name": "Matt Smith",
+  "external_ids": {
+    "wikidata": "Q312385",
+    "imdb": "nm1741002"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

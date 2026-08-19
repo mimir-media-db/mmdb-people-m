@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_riviere",
+  "name": "Marc Rivière",
+  "external_ids": {
+    "wikidata": "Q742915",
+    "imdb": "nm0729690"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950,
+  "death_year": 2025
+}

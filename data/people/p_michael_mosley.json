@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_mosley",
+  "name": "Michael Mosley",
+  "external_ids": {
+    "wikidata": "Q1928662",
+    "imdb": "nm1134612"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

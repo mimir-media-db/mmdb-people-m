@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_misha_collins",
+  "name": "Misha Collins",
+  "external_ids": {
+    "wikidata": "Q314704",
+    "imdb": "nm0172557"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

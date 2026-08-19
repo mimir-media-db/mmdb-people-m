@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_francis",
+  "name": "Marc Francis",
+  "external_ids": {
+    "wikidata": "Q26863459",
+    "imdb": "nm2126549"
+  },
+  "last_updated": "2026-08-19"
+}

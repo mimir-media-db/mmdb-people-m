@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_maya_angelou",
+  "name": "Maya Angelou",
+  "external_ids": {
+    "wikidata": "Q19526",
+    "imdb": "nm0029723"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2014
+}
