@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_fayet",
+  "name": "Marc Fayet",
+  "external_ids": {
+    "wikidata": "Q3288005",
+    "imdb": "nm0269702"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

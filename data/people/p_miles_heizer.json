@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_miles_heizer",
+  "name": "Miles Heizer",
+  "external_ids": {
+    "wikidata": "Q3314078",
+    "imdb": "nm1851028"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

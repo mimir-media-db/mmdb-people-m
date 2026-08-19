@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_gun",
+  "name": "Martin Gun",
+  "external_ids": {
+    "wikidata": "Q132180198",
+    "imdb": "nm1831522"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

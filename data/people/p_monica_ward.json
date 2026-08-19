@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monica_ward",
+  "name": "Monica Ward",
+  "external_ids": {
+    "wikidata": "Q3860855",
+    "imdb": "nm2854860"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

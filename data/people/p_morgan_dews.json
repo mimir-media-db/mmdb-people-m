@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_dews",
+  "name": "Morgan Dews",
+  "external_ids": {
+    "wikidata": "Q21173977",
+    "imdb": "nm1840452"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

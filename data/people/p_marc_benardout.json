@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_benardout",
+  "name": "Marc Benardout",
+  "external_ids": {
+    "wikidata": "Q6755388",
+    "imdb": "nm2296604"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
