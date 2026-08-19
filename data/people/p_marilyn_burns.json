@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marilyn_burns",
+  "name": "Marilyn Burns",
+  "external_ids": {
+    "wikidata": "Q269698",
+    "imdb": "nm0122782"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949,
+  "death_year": 2014
+}

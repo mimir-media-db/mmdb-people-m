@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michelangelo_marchese",
+  "name": "Michelangelo Marchese",
+  "external_ids": {
+    "wikidata": "Q16664358",
+    "imdb": "nm1280304"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

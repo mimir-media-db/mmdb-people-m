@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_pircher",
+  "name": "Marc Pircher",
+  "external_ids": {
+    "wikidata": "Q89769",
+    "imdb": "nm2267726"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

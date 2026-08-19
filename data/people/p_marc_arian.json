@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_arian",
+  "name": "Marc Arian",
+  "external_ids": {
+    "wikidata": "Q3287772",
+    "imdb": "nm0034653"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1909,
+  "death_year": 1997
+}

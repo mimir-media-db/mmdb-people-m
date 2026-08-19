@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maria_back",
+  "name": "Maria Bäck",
+  "external_ids": {
+    "wikidata": "Q30331287",
+    "imdb": "nm2156061"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

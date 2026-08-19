@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mason_dye",
+  "name": "Mason Dye",
+  "external_ids": {
+    "wikidata": "Q23774001",
+    "imdb": "nm5323995"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

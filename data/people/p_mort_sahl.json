@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mort_sahl",
+  "name": "Mort Sahl",
+  "external_ids": {
+    "wikidata": "Q3324468",
+    "imdb": "nm0756340"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1927,
+  "death_year": 2021
+}
