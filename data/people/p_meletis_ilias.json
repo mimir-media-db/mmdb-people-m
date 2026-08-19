@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_meletis_ilias",
+  "name": "Meletis Ilias",
+  "external_ids": {
+    "wikidata": "Q54396808",
+    "imdb": "nm2808150"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

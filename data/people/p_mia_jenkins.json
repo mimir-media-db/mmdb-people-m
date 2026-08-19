@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mia_jenkins",
+  "name": "Mia Jenkins",
+  "external_ids": {
+    "wikidata": "Q62058072",
+    "imdb": "nm4144141"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}

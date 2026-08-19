@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_messi_gusti",
+  "name": "Messi Gusti",
+  "external_ids": {
+    "wikidata": "Q137636740",
+    "imdb": "nm10538476"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2010
+}

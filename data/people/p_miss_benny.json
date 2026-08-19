@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_miss_benny",
+  "name": "Miss Benny",
+  "external_ids": {
+    "wikidata": "Q60603733",
+    "imdb": "nm4868704"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
