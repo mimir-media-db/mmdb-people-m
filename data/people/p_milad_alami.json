@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milad_alami",
+  "name": "Milad Alami",
+  "external_ids": {
+    "wikidata": "Q31708190",
+    "imdb": "nm3613729"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

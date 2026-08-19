@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monte_markham",
+  "name": "Monte Markham",
+  "external_ids": {
+    "wikidata": "Q945099",
+    "imdb": "nm0548449"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935
+}
