@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_pierret",
+  "name": "Marc Pierret",
+  "external_ids": {
+    "wikidata": "Q29876321"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1929,
+  "death_year": 2017
+}
