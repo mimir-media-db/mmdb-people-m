@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_jacobs",
+  "name": "Michael Jacobs",
+  "external_ids": {
+    "wikidata": "Q3308269",
+    "imdb": "nm0414551"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

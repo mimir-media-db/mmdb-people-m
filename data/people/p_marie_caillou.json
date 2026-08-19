@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marie_caillou",
+  "name": "Marie Caillou",
+  "external_ids": {
+    "wikidata": "Q3292412",
+    "imdb": "nm1333375"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

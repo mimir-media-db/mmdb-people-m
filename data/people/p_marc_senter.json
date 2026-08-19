@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_senter",
+  "name": "Marc Senter",
+  "external_ids": {
+    "wikidata": "Q15833765",
+    "imdb": "nm1020345"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

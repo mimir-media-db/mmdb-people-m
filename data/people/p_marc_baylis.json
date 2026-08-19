@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_baylis",
+  "name": "Marc Baylis",
+  "external_ids": {
+    "wikidata": "Q6755390",
+    "imdb": "nm1902888"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

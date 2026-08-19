@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_melina_mercouri",
+  "name": "Melina Mercouri",
+  "external_ids": {
+    "wikidata": "Q228611",
+    "imdb": "nm0580479"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1920,
+  "death_year": 1994
+}
