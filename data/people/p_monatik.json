@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monatik",
+  "name": "Monatik",
+  "external_ids": {
+    "wikidata": "Q12124379",
+    "imdb": "nm17169465"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
