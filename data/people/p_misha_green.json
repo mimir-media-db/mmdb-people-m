@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_misha_green",
+  "name": "Misha Green",
+  "external_ids": {
+    "wikidata": "Q23540987",
+    "imdb": "nm3207866"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
