@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_ford",
+  "name": "Mark Ford",
+  "external_ids": {
+    "wikidata": "Q26884002",
+    "imdb": "nm1332859"
+  },
+  "last_updated": "2026-08-19"
+}

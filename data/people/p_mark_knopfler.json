@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_knopfler",
+  "name": "Mark Knopfler",
+  "external_ids": {
+    "wikidata": "Q185343",
+    "imdb": "nm0461360"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
