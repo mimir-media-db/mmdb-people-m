@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milo_gibson",
+  "name": "Milo Gibson",
+  "external_ids": {
+    "wikidata": "Q58613040",
+    "imdb": "nm5490799"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

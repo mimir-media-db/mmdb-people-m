@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mira_thiel",
+  "name": "Mira Thiel",
+  "external_ids": {
+    "wikidata": "Q23197738",
+    "imdb": "nm1802378"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

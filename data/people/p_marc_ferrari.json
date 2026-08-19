@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_ferrari",
+  "name": "Marc Ferrari",
+  "external_ids": {
+    "wikidata": "Q3288022",
+    "imdb": "nm0274100"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}
