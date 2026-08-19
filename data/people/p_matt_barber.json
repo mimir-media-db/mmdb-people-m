@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_barber",
+  "name": "Matt Barber",
+  "external_ids": {
+    "wikidata": "Q6788309",
+    "imdb": "nm3195528"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
