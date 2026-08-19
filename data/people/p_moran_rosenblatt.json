@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_moran_rosenblatt",
+  "name": "Moran Rosenblatt",
+  "external_ids": {
+    "wikidata": "Q6994464",
+    "imdb": "nm4278130"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
