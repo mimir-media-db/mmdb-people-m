@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_richards",
+  "name": "Michael Richards",
+  "external_ids": {
+    "wikidata": "Q314945",
+    "imdb": "nm0724245"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
