@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_bendavid",
+  "name": "Marc Bendavid",
+  "external_ids": {
+    "wikidata": "Q6755389",
+    "imdb": "nm2544244"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
