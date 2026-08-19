@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_rissmann",
+  "name": "Marc Rissmann",
+  "external_ids": {
+    "wikidata": "Q19024253",
+    "imdb": "nm4704928"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
