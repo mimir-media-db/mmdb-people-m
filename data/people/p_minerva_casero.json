@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_minerva_casero",
+  "name": "Minerva Casero",
+  "external_ids": {
+    "wikidata": "Q61855417",
+    "imdb": "nm9037529"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
