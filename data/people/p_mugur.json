@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mugur",
+  "name": "Mugur",
+  "external_ids": {
+    "wikidata": "Q16019618",
+    "imdb": "nm2133477"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mister_v",
+  "name": "Mister V",
+  "external_ids": {
+    "wikidata": "Q23816443",
+    "imdb": "nm5313009"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_arnaud",
+  "name": "Marc Arnaud",
+  "external_ids": {
+    "wikidata": "Q28106860",
+    "imdb": "nm1975770"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monsieur_fraize",
+  "name": "Monsieur Fraize",
+  "external_ids": {
+    "wikidata": "Q3321380",
+    "imdb": "nm8988411"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

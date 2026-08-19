@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monja_art",
+  "name": "Monja Art",
+  "external_ids": {
+    "wikidata": "Q28542398",
+    "imdb": "nm2290905"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mia_tome",
+  "name": "Mia Tomé",
+  "external_ids": {
+    "wikidata": "Q25336888",
+    "imdb": "nm5310158"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

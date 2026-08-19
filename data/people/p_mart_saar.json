@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mart_saar",
+  "name": "Mart Saar",
+  "external_ids": {
+    "wikidata": "Q125561619",
+    "imdb": "nm3240414"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

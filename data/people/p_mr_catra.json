@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mr_catra",
+  "name": "Mr. Catra",
+  "external_ids": {
+    "wikidata": "Q10332933",
+    "imdb": "nm1794829"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968,
+  "death_year": 2018
+}
