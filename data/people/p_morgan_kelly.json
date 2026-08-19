@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_kelly",
+  "name": "Morgan Kelly",
+  "external_ids": {
+    "wikidata": "Q6911733",
+    "imdb": "nm1225457"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
