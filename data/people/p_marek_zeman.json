@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marek_zeman",
+  "name": "Marek Zeman",
+  "external_ids": {
+    "wikidata": "Q25939187",
+    "imdb": "nm2127816"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}

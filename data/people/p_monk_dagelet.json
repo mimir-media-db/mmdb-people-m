@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_monk_dagelet",
+  "name": "Monk Dagelet",
+  "external_ids": {
+    "wikidata": "Q21866824",
+    "imdb": "nm4619360"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
