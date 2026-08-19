@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milano",
+  "name": "Milano",
+  "external_ids": {
+    "wikidata": "Q140011474",
+    "imdb": "nm4124269"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
