@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_twain",
+  "name": "Marc Twain",
+  "external_ids": {
+    "wikidata": "Q117860889",
+    "imdb": "nm4235523"
+  },
+  "last_updated": "2026-08-19"
+}
