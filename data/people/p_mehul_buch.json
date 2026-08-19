@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mehul_buch",
+  "name": "Mehul Buch",
+  "external_ids": {
+    "wikidata": "Q22977403",
+    "imdb": "nm1188780"
+  },
+  "last_updated": "2026-08-19"
+}

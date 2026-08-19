@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matpat",
+  "name": "MatPat",
+  "external_ids": {
+    "wikidata": "Q24056548",
+    "imdb": "nm6942826"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
