@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_million",
+  "name": "Mike Million",
+  "external_ids": {
+    "wikidata": "Q114143311",
+    "imdb": "nm0589782"
+  },
+  "last_updated": "2026-08-19"
+}
