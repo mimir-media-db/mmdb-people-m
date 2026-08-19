@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mister_aloy",
+  "name": "Mister Aloy",
+  "external_ids": {
+    "wikidata": "Q136486177",
+    "imdb": "nm14016268"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
