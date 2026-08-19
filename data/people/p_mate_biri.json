@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mate_biri",
+  "name": "Máté Biri",
+  "external_ids": {
+    "wikidata": "Q124595966",
+    "imdb": "nm14100466"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
