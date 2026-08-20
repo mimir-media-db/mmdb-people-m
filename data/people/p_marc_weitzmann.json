@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_weitzmann",
+  "name": "Marc Weitzmann",
+  "external_ids": {
+    "wikidata": "Q3288479",
+    "imdb": "nm1179405"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
