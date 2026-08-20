@@ -3,8 +3,9 @@
   "id": "p_mark_lewis",
   "name": "Mark Lewis",
   "external_ids": {
-    "wikidata": "Q6768591",
-    "imdb": "nm0507503"
+    "wikidata": "Q6768586",
+    "imdb": "nm0507505"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
 }
