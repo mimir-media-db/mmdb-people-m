@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mel_lewis",
+  "name": "Mel Lewis",
+  "external_ids": {
+    "wikidata": "Q955597",
+    "imdb": "nm0507542"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1929,
+  "death_year": 1990
+}

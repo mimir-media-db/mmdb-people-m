@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_riedinger",
+  "name": "Marc Riedinger",
+  "external_ids": {
+    "wikidata": "Q95901831",
+    "imdb": "nm1234091"
+  },
+  "last_updated": "2026-08-20"
+}
