@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_millie_kent",
+  "name": "Millie Kent",
+  "external_ids": {
+    "wikidata": "Q123155641",
+    "imdb": "nm10862578"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1998
+}
