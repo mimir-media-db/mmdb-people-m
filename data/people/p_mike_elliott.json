@@ -3,8 +3,10 @@
   "id": "p_mike_elliott",
   "name": "Mike Elliott",
   "external_ids": {
-    "wikidata": "Q6846685",
-    "imdb": "nm0254291"
+    "wikidata": "Q6846684",
+    "imdb": "nm0254290"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1946,
+  "death_year": 2014
 }

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_rich",
+  "name": "Mike Rich",
+  "external_ids": {
+    "wikidata": "Q555726",
+    "imdb": "nm0723692"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}

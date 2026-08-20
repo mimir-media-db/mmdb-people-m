@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marty_stuart",
+  "name": "Marty Stuart",
+  "external_ids": {
+    "wikidata": "Q706332",
+    "imdb": "nm0005473"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}

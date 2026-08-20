@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_de_bel",
+  "name": "Marc de Bel",
+  "external_ids": {
+    "wikidata": "Q1853941",
+    "imdb": "nm0207340"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
