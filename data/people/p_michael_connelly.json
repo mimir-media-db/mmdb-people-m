@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_connelly",
+  "name": "Michael Connelly",
+  "external_ids": {
+    "wikidata": "Q313193",
+    "imdb": "nm0175093"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}
