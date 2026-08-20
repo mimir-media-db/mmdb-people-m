@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_watters",
+  "name": "Mark Watters",
+  "external_ids": {
+    "wikidata": "Q1900506",
+    "imdb": "nm0915053"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}
