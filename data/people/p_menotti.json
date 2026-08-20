@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_menotti",
+  "name": "Menotti",
+  "external_ids": {
+    "wikidata": "Q3854709",
+    "imdb": "nm1371376"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}
