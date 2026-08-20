@@ -3,8 +3,10 @@
   "id": "p_manmohan_singh",
   "name": "Manmohan Singh",
   "external_ids": {
-    "wikidata": "Q17019633",
-    "imdb": "nm0802168"
+    "wikidata": "Q41914",
+    "imdb": "nm5200339"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1932,
+  "death_year": 2024
 }

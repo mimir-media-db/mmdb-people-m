@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_mccann",
+  "name": "Michael McCann",
+  "external_ids": {
+    "wikidata": "Q6832624",
+    "imdb": "nm1093613"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
+}
