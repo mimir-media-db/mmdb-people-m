@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_brinker",
+  "name": "Mark Brinker",
+  "external_ids": {
+    "wikidata": "Q118218519",
+    "imdb": "nm1440026"
+  },
+  "last_updated": "2026-08-20"
+}
