@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_miguel_angel_tirado",
-  "name": "Miguel Ángel Tirado",
+  "id": "p_michel_quint",
+  "name": "Michel Quint",
   "external_ids": {
-    "wikidata": "Q6015861"
+    "wikidata": "Q1677149",
+    "imdb": "nm0704071"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1949
