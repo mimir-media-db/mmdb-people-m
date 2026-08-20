@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_manolo_marinero",
+  "name": "Manolo Marinero",
+  "external_ids": {
+    "wikidata": "Q55687763",
+    "imdb": "nm0547605"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1943,
+  "death_year": 2004
+}

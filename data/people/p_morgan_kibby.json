@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_morgan_kibby",
+  "name": "Morgan Kibby",
+  "external_ids": {
+    "wikidata": "Q3862972",
+    "imdb": "nm0452153"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1983
+}
