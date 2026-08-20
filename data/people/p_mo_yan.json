@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mo_yan",
+  "name": "Mo Yan",
+  "external_ids": {
+    "wikidata": "Q8998",
+    "imdb": "nm0594911"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}
