@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_cooper",
+  "name": "Michael Cooper",
+  "external_ids": {
+    "wikidata": "Q971538",
+    "imdb": "nm1649053"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}

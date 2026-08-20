@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_bradley",
+  "name": "Marc Bradley",
+  "external_ids": {
+    "wikidata": "Q1892557",
+    "imdb": "nm1624021"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}
