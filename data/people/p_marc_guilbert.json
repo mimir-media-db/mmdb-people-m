@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_guilbert",
+  "name": "Marc Guilbert",
+  "external_ids": {
+    "wikidata": "Q3288088",
+    "imdb": "nm0346906"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}

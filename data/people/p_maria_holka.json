@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_maria_holka",
+  "name": "Maria Holka",
+  "external_ids": {
+    "wikidata": "Q48844151",
+    "imdb": "nm7126649"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1985
+}
