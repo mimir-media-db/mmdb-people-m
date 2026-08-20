@@ -3,9 +3,10 @@
   "id": "p_mohan",
   "name": "Mohan",
   "external_ids": {
-    "wikidata": "Q6893516",
-    "imdb": "nm0595897"
+    "wikidata": "Q6893514",
+    "imdb": "nm0595896"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1956
+  "last_updated": "2026-08-20",
+  "birth_year": 1948,
+  "death_year": 2024
 }
