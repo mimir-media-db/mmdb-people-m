@@ -1,9 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_maria_paz_gonzalez",
-  "name": "Maria Paz Gonzalez",
+  "name": "María Paz González",
   "external_ids": {
-    "wikidata": "Q65116268"
+    "wikidata": "Q114908425",
+    "imdb": "nm2312982"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
 }
