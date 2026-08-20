@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_portal",
+  "name": "Michel Portal",
+  "external_ids": {
+    "wikidata": "Q1353252",
+    "imdb": "nm0006233"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 2026
+}
