@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_borenstein",
+  "name": "Max Borenstein",
+  "external_ids": {
+    "wikidata": "Q16732173",
+    "imdb": "nm1440919"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}

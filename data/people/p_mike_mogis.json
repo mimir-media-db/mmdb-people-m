@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_mogis",
+  "name": "Mike Mogis",
+  "external_ids": {
+    "wikidata": "Q449224",
+    "imdb": "nm2059333"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
