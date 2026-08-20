@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milton_nascimento",
+  "name": "Milton Nascimento",
+  "external_ids": {
+    "wikidata": "Q542847",
+    "imdb": "nm0621643"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1942
+}
