@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_egea",
+  "name": "Marc Egea",
+  "external_ids": {
+    "wikidata": "Q140320758",
+    "imdb": "nm8817373"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}

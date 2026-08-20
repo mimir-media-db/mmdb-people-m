@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milos_urban",
+  "name": "Miloš Urban",
+  "external_ids": {
+    "wikidata": "Q3314491",
+    "imdb": "nm3926948"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_pitzke",
+  "name": "Marc Pitzke",
+  "external_ids": {
+    "wikidata": "Q1892758",
+    "imdb": "nm16072897"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_batson",
+  "name": "Mark Batson",
+  "external_ids": {
+    "wikidata": "Q3293994",
+    "imdb": "nm0061246"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}
