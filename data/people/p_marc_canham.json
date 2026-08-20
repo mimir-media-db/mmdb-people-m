@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_matt_kennard",
-  "name": "Matt Kennard",
+  "id": "p_marc_canham",
+  "name": "Marc Canham",
   "external_ids": {
-    "wikidata": "Q16221827",
-    "imdb": "nm0447849"
+    "wikidata": "Q6755448"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1982
