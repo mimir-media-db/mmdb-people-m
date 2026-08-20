@@ -2587,6 +2587,11 @@
     "path": "data/people/p_madison_eginton.json"
   },
   {
+    "id": "p_madison_grace_cunningham",
+    "name": "Madison Grace Cunningham",
+    "path": "data/people/p_madison_grace_cunningham.json"
+  },
+  {
     "id": "p_madison_hu",
     "name": "Madison Hu",
     "birth_year": 2002,
@@ -19772,6 +19777,11 @@
     "path": "data/people/p_marek_bukowski.json"
   },
   {
+    "id": "p_marek_buranovsky",
+    "name": "Marek Buranovský",
+    "path": "data/people/p_marek_buranovsky.json"
+  },
+  {
     "id": "p_marek_bures",
     "name": "Marek Bures",
     "path": "data/people/p_marek_bures.json"
@@ -24892,6 +24902,12 @@
     "path": "data/people/p_maria_verdi.json"
   },
   {
+    "id": "p_maria_vertiz",
+    "name": "Maria Vertiz",
+    "birth_year": 1996,
+    "path": "data/people/p_maria_vertiz.json"
+  },
+  {
     "id": "p_maria_victoria_biscay",
     "name": "María Victoria Biscay",
     "path": "data/people/p_maria_victoria_biscay.json"
@@ -28033,6 +28049,11 @@
     "name": "Marie Spurná",
     "birth_year": 1949,
     "path": "data/people/p_marie_spurna.json"
+  },
+  {
+    "id": "p_marie_stara",
+    "name": "Marie Stará",
+    "path": "data/people/p_marie_stara.json"
   },
   {
     "id": "p_marie_stindlova",
@@ -35289,6 +35310,11 @@
     "path": "data/people/p_mark_kurlansky.json"
   },
   {
+    "id": "p_mark_kushner",
+    "name": "Mark Kushner",
+    "path": "data/people/p_mark_kushner.json"
+  },
+  {
     "id": "p_mark_l_christensen",
     "name": "Mark L. Christensen",
     "path": "data/people/p_mark_l_christensen.json"
@@ -37284,7 +37310,8 @@
   },
   {
     "id": "p_marko_cindric",
-    "name": "Marko Cindric",
+    "name": "Marko Cindrić",
+    "birth_year": 1984,
     "path": "data/people/p_marko_cindric.json"
   },
   {
@@ -40614,6 +40641,12 @@
     "path": "data/people/p_martin_betz.json"
   },
   {
+    "id": "p_martin_bezouska",
+    "name": "Martin Bezouška",
+    "birth_year": 1955,
+    "path": "data/people/p_martin_bezouska.json"
+  },
+  {
     "id": "p_martin_bianchedi",
     "name": "Martín Bianchedi",
     "birth_year": 1965,
@@ -41232,6 +41265,12 @@
     "name": "Martin Edwards",
     "birth_year": 1970,
     "path": "data/people/p_martin_edwards.json"
+  },
+  {
+    "id": "p_martin_eigler",
+    "name": "Martin Eigler",
+    "birth_year": 1963,
+    "path": "data/people/p_martin_eigler.json"
   },
   {
     "id": "p_martin_eliasson",
@@ -46417,6 +46456,11 @@
     "path": "data/people/p_marymitchell_campbell.json"
   },
   {
+    "id": "p_maryna_brodovska",
+    "name": "Maryna Brodovska",
+    "path": "data/people/p_maryna_brodovska.json"
+  },
+  {
     "id": "p_maryna_chaika",
     "name": "Maryna Chaika",
     "path": "data/people/p_maryna_chaika.json"
@@ -46843,6 +46887,11 @@
     "name": "Masahiro Usui",
     "birth_year": 1991,
     "path": "data/people/p_masahiro_usui.json"
+  },
+  {
+    "id": "p_masahiro_yamaura",
+    "name": "Masahiro Yamaura",
+    "path": "data/people/p_masahiro_yamaura.json"
   },
   {
     "id": "p_masahiro_yasuda",
@@ -49180,6 +49229,11 @@
     "path": "data/people/p_matej_trojan.json"
   },
   {
+    "id": "p_matej_turcer",
+    "name": "Matej Turcer",
+    "path": "data/people/p_matej_turcer.json"
+  },
+  {
     "id": "p_matej_turek",
     "name": "Matěj Turek",
     "path": "data/people/p_matej_turek.json"
@@ -50718,6 +50772,11 @@
     "name": "Matīss Kaža",
     "birth_year": 1995,
     "path": "data/people/p_matiss_kaza.json"
+  },
+  {
+    "id": "p_matiss_krisjanis",
+    "name": "Matīss Krišjanis",
+    "path": "data/people/p_matiss_krisjanis.json"
   },
   {
     "id": "p_matisyahu",
@@ -52989,6 +53048,11 @@
     "id": "p_matthew_bonifacio",
     "name": "Matthew Bonifacio",
     "path": "data/people/p_matthew_bonifacio.json"
+  },
+  {
+    "id": "p_matthew_booi",
+    "name": "Matthew Booi",
+    "path": "data/people/p_matthew_booi.json"
   },
   {
     "id": "p_matthew_bravais",
@@ -83542,7 +83606,7 @@
   {
     "id": "p_mike_flanagan",
     "name": "Mike Flanagan",
-    "birth_year": 1926,
+    "birth_year": 1978,
     "path": "data/people/p_mike_flanagan.json"
   },
   {
@@ -93397,6 +93461,11 @@
     "path": "data/people/p_mitchell_kriegman.json"
   },
   {
+    "id": "p_mitchell_lafortune",
+    "name": "Mitchell LaFortune",
+    "path": "data/people/p_mitchell_lafortune.json"
+  },
+  {
     "id": "p_mitchell_lathbury",
     "name": "Mitchell Lathbury",
     "path": "data/people/p_mitchell_lathbury.json"
@@ -95968,6 +96037,11 @@
     "path": "data/people/p_mohammad_nazim.json"
   },
   {
+    "id": "p_mohammad_nazim_uddin",
+    "name": "Mohammad Nazim Uddin",
+    "path": "data/people/p_mohammad_nazim_uddin.json"
+  },
+  {
     "id": "p_mohammad_neshat",
     "name": "Mohammad Neshat",
     "birth_year": 1953,
@@ -97418,7 +97492,6 @@
   {
     "id": "p_momo_beier",
     "name": "Momo Beier",
-    "birth_year": 2005,
     "path": "data/people/p_momo_beier.json"
   },
   {
@@ -99092,6 +99165,12 @@
     "name": "Monika Wild",
     "birth_year": 1995,
     "path": "data/people/p_monika_wild.json"
+  },
+  {
+    "id": "p_monika_wildova",
+    "name": "Monika Wildová",
+    "birth_year": 1965,
+    "path": "data/people/p_monika_wildova.json"
   },
   {
     "id": "p_monika_willi",
@@ -102838,7 +102917,7 @@
   {
     "id": "p_mukesh_tiwari",
     "name": "Mukesh Tiwari",
-    "birth_year": 1962,
+    "birth_year": 1969,
     "path": "data/people/p_mukesh_tiwari.json"
   },
   {
@@ -103198,7 +103277,6 @@
   {
     "id": "p_munna_khan",
     "name": "Munna Khan",
-    "birth_year": 1963,
     "path": "data/people/p_munna_khan.json"
   },
   {
