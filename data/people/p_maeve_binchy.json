@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_maeve_binchy",
+  "name": "Maeve Binchy",
+  "external_ids": {
+    "wikidata": "Q152690",
+    "imdb": "nm0082759"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940,
+  "death_year": 2012
+}
