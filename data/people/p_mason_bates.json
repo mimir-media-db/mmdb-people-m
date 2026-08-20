@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mason_bates",
+  "name": "Mason Bates",
+  "external_ids": {
+    "wikidata": "Q16165161",
+    "imdb": "nm7033665"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}
