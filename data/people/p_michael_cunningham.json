@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_cunningham",
+  "name": "Michael Cunningham",
+  "external_ids": {
+    "wikidata": "Q310257",
+    "imdb": "nm1259728"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
