@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marlene_poste",
+  "name": "Marlène Poste",
+  "external_ids": {
+    "wikidata": "Q134235813",
+    "imdb": "nm8141702"
+  },
+  "last_updated": "2026-08-20"
+}
