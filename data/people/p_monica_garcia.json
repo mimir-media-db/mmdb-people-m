@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_monica_garcia",
-  "name": "Monica Garcia",
+  "name": "Mónica García",
   "external_ids": {
-    "wikidata": "Q24052831",
-    "imdb": "nm1377804"
+    "wikidata": "Q11694853",
+    "imdb": "nm0306396"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
 }
