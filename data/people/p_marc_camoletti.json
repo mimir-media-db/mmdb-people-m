@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_camoletti",
+  "name": "Marc Camoletti",
+  "external_ids": {
+    "wikidata": "Q430596",
+    "imdb": "nm0131942"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1923,
+  "death_year": 2003
+}
