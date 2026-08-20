@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_milica_paranosic",
+  "name": "Milica Paranosic",
+  "external_ids": {
+    "wikidata": "Q1934753",
+    "imdb": "nm1090883"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
