@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mark_snow",
+  "name": "Mark Snow",
+  "external_ids": {
+    "wikidata": "Q534413",
+    "imdb": "nm0006296"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1946,
+  "death_year": 2025
+}
