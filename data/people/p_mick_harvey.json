@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_harvey",
+  "name": "Mick Harvey",
+  "external_ids": {
+    "wikidata": "Q166565",
+    "imdb": "nm0367647"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_murray_gold",
+  "name": "Murray Gold",
+  "external_ids": {
+    "wikidata": "Q957357",
+    "imdb": "nm0325050"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
