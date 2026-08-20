@@ -1,11 +1,9 @@
 {
   "schema_version": 1,
   "id": "p_marko_cindric",
-  "name": "Marko Cindrić",
+  "name": "Marko Cindric",
   "external_ids": {
-    "wikidata": "Q12636329",
-    "imdb": "nm3037643"
+    "wikidata": "Q133250630"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1984
+  "last_updated": "2026-08-20"
 }

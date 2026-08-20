@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_o_seng",
+  "name": "Marc O. Seng",
+  "external_ids": {
+    "wikidata": "Q76651998",
+    "imdb": "nm4657617"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
