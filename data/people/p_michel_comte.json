@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_comte",
+  "name": "Michel Comte",
+  "external_ids": {
+    "wikidata": "Q125053",
+    "imdb": "nm0174126"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}

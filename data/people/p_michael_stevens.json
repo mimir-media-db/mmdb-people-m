@@ -3,9 +3,10 @@
   "id": "p_michael_stevens",
   "name": "Michael Stevens",
   "external_ids": {
-    "wikidata": "Q14436762",
-    "imdb": "nm5955634"
+    "wikidata": "Q6834622",
+    "imdb": "nm0828630"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1986
+  "birth_year": 1900,
+  "death_year": 2024
 }

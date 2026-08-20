@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_manu_guix",
+  "name": "Manu Guix",
+  "external_ids": {
+    "wikidata": "Q6752273",
+    "imdb": "nm1129982"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}
