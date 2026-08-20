@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_manuel_de_falla",
+  "name": "Manuel de Falla",
+  "external_ids": {
+    "wikidata": "Q193283",
+    "imdb": "nm0266316"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1876,
+  "death_year": 1946
+}
