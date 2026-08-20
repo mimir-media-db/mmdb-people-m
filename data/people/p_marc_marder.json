@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_marder",
+  "name": "Marc Marder",
+  "external_ids": {
+    "wikidata": "Q99673115",
+    "imdb": "nm0546278"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}
