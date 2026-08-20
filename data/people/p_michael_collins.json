@@ -3,8 +3,10 @@
   "id": "p_michael_collins",
   "name": "Michael Collins",
   "external_ids": {
-    "wikidata": "Q24631029",
-    "imdb": "nm4057978"
+    "wikidata": "Q104859",
+    "imdb": "nm0172531"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1930,
+  "death_year": 2021
 }
