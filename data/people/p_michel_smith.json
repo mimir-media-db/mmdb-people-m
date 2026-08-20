@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michel_smith",
+  "name": "Michel Smith",
+  "external_ids": {
+    "wikidata": "Q3310871",
+    "imdb": "nm1258527"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}

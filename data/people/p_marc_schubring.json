@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_schubring",
+  "name": "Marc Schubring",
+  "external_ids": {
+    "wikidata": "Q1892788",
+    "imdb": "nm7183037"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1968
+}

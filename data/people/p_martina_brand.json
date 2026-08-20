@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martina_brand",
+  "name": "Martina Brand",
+  "external_ids": {
+    "wikidata": "Q22115473",
+    "imdb": "nm0104498"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}

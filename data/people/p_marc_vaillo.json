@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_vaillo",
+  "name": "Marc Vaíllo",
+  "external_ids": {
+    "wikidata": "Q109887728",
+    "imdb": "nm0883249"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
+}

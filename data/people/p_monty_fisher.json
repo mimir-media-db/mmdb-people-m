@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_monty_fisher",
+  "name": "Monty Fisher",
+  "external_ids": {
+    "wikidata": "Q140796784",
+    "imdb": "nm2752428"
+  },
+  "last_updated": "2026-08-20"
+}
