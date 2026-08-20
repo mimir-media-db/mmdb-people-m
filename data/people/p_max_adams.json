@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_adams",
+  "name": "Max Adams",
+  "external_ids": {
+    "wikidata": "Q61994798",
+    "imdb": "nm2809844"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
