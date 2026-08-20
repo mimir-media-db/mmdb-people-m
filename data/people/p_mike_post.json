@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_post",
+  "name": "Mike Post",
+  "external_ids": {
+    "wikidata": "Q1933464",
+    "imdb": "nm0006236"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944
+}

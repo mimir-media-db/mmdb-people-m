@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_robitaille",
+  "name": "Marc Robitaille",
+  "external_ids": {
+    "wikidata": "Q3288352",
+    "imdb": "nm0733251"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}
