@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_mikhail_bulgakov",
+  "name": "Mikhail Bulgakov",
+  "external_ids": {
+    "wikidata": "Q835",
+    "imdb": "nm0119888"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1891,
+  "death_year": 1940
+}
