@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marque",
+  "name": "Marque",
+  "external_ids": {
+    "wikidata": "Q86779",
+    "imdb": "nm1474443"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_streitenfeld",
+  "name": "Marc Streitenfeld",
+  "external_ids": {
+    "wikidata": "Q553963",
+    "imdb": "nm0834199"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}

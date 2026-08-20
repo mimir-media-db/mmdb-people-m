@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mal_pope",
+  "name": "Mal Pope",
+  "external_ids": {
+    "wikidata": "Q6740639",
+    "imdb": "nm1233942"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}

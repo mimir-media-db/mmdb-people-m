@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_chouarain",
+  "name": "Marc Chouarain",
+  "external_ids": {
+    "wikidata": "Q64827904",
+    "imdb": "nm1384440"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
