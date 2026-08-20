@@ -1,11 +1,10 @@
 {
   "schema_version": 1,
   "id": "p_monica_sanchez",
-  "name": "Mónica Sánchez",
+  "name": "Monica Sanchez",
   "external_ids": {
-    "wikidata": "Q6950268",
-    "imdb": "nm0845120"
+    "wikidata": "Q126901212",
+    "imdb": "nm1853521"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1970
+  "last_updated": "2026-08-20"
 }
