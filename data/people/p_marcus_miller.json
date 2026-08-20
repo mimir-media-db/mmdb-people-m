@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marcus_miller",
+  "name": "Marcus Miller",
+  "external_ids": {
+    "wikidata": "Q323467",
+    "imdb": "nm0588883"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}

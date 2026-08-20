@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_michael_price",
+  "name": "Michael Price",
+  "external_ids": {
+    "wikidata": "Q3308464",
+    "imdb": "nm0697048"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
