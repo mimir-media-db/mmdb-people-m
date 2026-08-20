@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_moss",
+  "name": "Marc Moss",
+  "external_ids": {
+    "wikidata": "Q6755766",
+    "imdb": "nm0609031"
+  },
+  "last_updated": "2026-08-20"
+}

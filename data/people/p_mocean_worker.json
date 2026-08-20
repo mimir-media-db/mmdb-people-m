@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mocean_worker",
+  "name": "Mocean Worker",
+  "external_ids": {
+    "wikidata": "Q1491825",
+    "imdb": "nm0233818"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
