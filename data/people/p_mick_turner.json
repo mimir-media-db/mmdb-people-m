@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mick_turner",
+  "name": "Mick Turner",
+  "external_ids": {
+    "wikidata": "Q6838460",
+    "imdb": "nm2350520"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
