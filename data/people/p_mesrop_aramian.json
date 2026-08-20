@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_minna_grooss",
-  "name": "Minna Grooss",
+  "id": "p_mesrop_aramian",
+  "name": "Mesrop Aramian",
   "external_ids": {
-    "wikidata": "Q28811719",
-    "imdb": "nm1164914"
+    "wikidata": "Q21111829"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1966
