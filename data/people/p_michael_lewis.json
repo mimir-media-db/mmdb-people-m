@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_martha_holmes",
-  "name": "Martha Holmes",
+  "id": "p_michael_lewis",
+  "name": "Michael Lewis",
   "external_ids": {
-    "wikidata": "Q253632",
-    "imdb": "nm2280670"
+    "wikidata": "Q311654",
+    "imdb": "nm1034122"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1960
