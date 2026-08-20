@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_max_kinnings",
+  "name": "Max Kinnings",
+  "external_ids": {
+    "wikidata": "Q6794930",
+    "imdb": "nm1779984"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
