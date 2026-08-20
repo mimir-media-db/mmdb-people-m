@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_mike_batt",
+  "name": "Mike Batt",
+  "external_ids": {
+    "wikidata": "Q705596",
+    "imdb": "nm0061270"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1950
+}
