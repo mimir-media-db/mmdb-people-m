@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_martin_stock",
+  "name": "Martin Stock",
+  "external_ids": {
+    "wikidata": "Q1905104",
+    "imdb": "nm0830737"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
