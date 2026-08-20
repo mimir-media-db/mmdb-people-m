@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_matt_campagna",
+  "name": "Matt Campagna",
+  "external_ids": {
+    "wikidata": "Q6788432",
+    "imdb": "nm1384340"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}
