@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_marc_haimes",
+  "name": "Marc Haimes",
+  "external_ids": {
+    "wikidata": "Q103819930",
+    "imdb": "nm1199351"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}

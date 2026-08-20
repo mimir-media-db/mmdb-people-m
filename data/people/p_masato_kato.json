@@ -1,11 +1,10 @@
 {
   "schema_version": 1,
   "id": "p_masato_kato",
-  "name": "Masato Kato",
+  "name": "Masato Katō",
   "external_ids": {
-    "wikidata": "Q635189",
-    "imdb": "nm0441376"
+    "wikidata": "Q11399311"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1963
+  "birth_year": 1954
 }
