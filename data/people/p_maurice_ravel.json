@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_maurice_ravel",
+  "name": "Maurice Ravel",
+  "external_ids": {
+    "wikidata": "Q1178",
+    "imdb": "nm0712315"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1875,
+  "death_year": 1937
+}
